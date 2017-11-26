@@ -1,0 +1,1130 @@
+40169	#doc=soc_project.2.txt														
+40170	1	ƒари€	ƒј–»я	S f anim nom sg persn			€	и	р	а	д		S	ƒј–»…	S m anim gen sg
+40171	2	@	@	PUNC									PUNC	@	PUNC
+40172	3	јаа	јјј	INTJ			а	а	а				INTJ	јјј	S m inan nonflex nonflex
+40173	4	,	,	PUNC									PUNC	,	PUNC
+40174	5	–осси€	–ќ——»я	S f inan nom sg			€	и	с	с	о	р	S	–ќ——»я	S f inan nom sg
+40175	6	,	,	PUNC									PUNC	,	PUNC
+40176	7	город	√ќ–ќƒ	S m inan nom sg			д	о	р	о	г		S	√ќ–ќƒ	S m inan nom sg
+40177	8	&	&	PUNC									PUNC	&	PUNC
+40178	9	lt	LT	NONLEX									NONLEX	LT	NONLEX
+40179	10	";"	";"	PUNC									PUNC	";"	PUNC
+40180	11	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+40181	12	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+40182	13	=	=	PUNC									PUNC	=	PUNC
+40183	14	&	&	PUNC									PUNC	&	PUNC
+40184	15	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40185	16	";"	";"	PUNC									PUNC	";"	PUNC
+40186	17	санпетербург	—јЌ “-ѕ≈“≈–Ѕ”–√	S m inan nom sg distort			г	р	у	б	р	е	S	—јЌѕ≈“≈–Ѕ”–√	S m inan acc sg
+40187	18	&	&	PUNC									PUNC	&	PUNC
+40188	19	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40189	20	";"	";"	SENT									SENT	";"	SENT
+40190															
+40191	1	&	&	PUNC									PUNC	&	PUNC
+40192	2	gt	GT	NONLEX									NONLEX	GT	NONLEX
+40193	3	";"	";"	SENT									SENT	";"	SENT
+40194															
+40195	1	—анкт-ѕетербург	—јЌ “-ѕ≈“≈–Ѕ”–√	S m inan nom sg			г	р	у	б	р	е	S	—јЌ “-ѕ≈“≈–Ѕ”–√	S m inan nom sg
+40196	2	&	&	PUNC									PUNC	&	PUNC
+40197	3	lt	LT	NONLEX									NONLEX	LT	NONLEX
+40198	4	";"	";"	SENT									SENT	";"	SENT
+40199															
+40200	1	/	/	PUNC									PUNC	/	PUNC
+40201	2	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+40202	3	&	&	PUNC									PUNC	&	PUNC
+40203	4	gt	GT	NONLEX									NONLEX	GT	NONLEX
+40204	5	";"	";"	SENT									SENT	";"	SENT
+40205															
+40206	1	,	,	PUNC									PUNC	,	PUNC
+40207	2	пока	ѕќ ј	PARENTH	слитно		а	к	о	п			PARENTH	ѕќ ј	CONJ
+40208	3	что	„“ќ	PARENTH			о	т	ч				PARENTH	„“ќ	CONJ
+40209	4	мне	я	SPRO sg 1p - dat			е	н	м				SPRO	я	SPRO sg 1p - loc
+40210	5	ничего	Ќ»„“ќ	PRAEDICPRO n - gen sg			о	г	е	ч	и	н	PRAEDICPRO	Ќ»„“ќ	S n - gen sg
+40211	6	не	Ќ≈	PART			е	н					PART	Ќ≈	PART
+40212	7	показывают	ѕќ ј«џ¬ј“№	V ipf praes pl indic - 3p			т	ю	а	в	ы	з	V	ѕќ ј«џ¬ј“№	V ipf praes pl indic - 3p
+40213	8	,	,	PUNC									PUNC	,	PUNC
+40214	9	но	Ќќ	CONJ			о	н					CONJ	Ќќ	CONJ
+40215	10	мы	ћџ	SPRO pl 1p - nom			ы	м					SPRO	ћџ	SPRO pl 1p - nom
+40216	11	ждем	∆ƒј“№	V ipf praes pl indic - 1p			м	е	д	ж			V	∆ƒј“№	V ipf praes pl indic - 1p
+40217	12	.	.	SENT									SENT	.	SENT
+40218															
+40219	1	ƒари€	ƒј–»я	S f anim nom sg persn			€	и	р	а	д		S	ƒј–»…	S m anim gen sg
+40220	2	@	@	PUNC									PUNC	@	PUNC
+40221	3	“ак	“ј 	PART			к	а	т				PART	“ј 	ADV -
+40222	4	,	,	PUNC									PUNC	,	PUNC
+40223	5	вот	¬ќ“	PART			т	о	в				PART	¬ќ“	PART
+40224	6	мужчина	ћ”∆„»Ќј	S m anim nom sg			а	н	и	ч	ж	у	S	ћ”∆„»Ќј	S m anim nom sg
+40225	7	в	¬	PR			в						PR	¬	PR
+40226	8	желтой	∆≈Ћ“џ…	A - loc sg plen f -			й	о	т	л	е	ж	A	∆≈Ћ“џ…	A - loc sg plen f -
+40227	9	майке	ћј… ј	S f inan loc sg			е	к	й	а	м		S	ћј… ј	S f inan loc sg
+40228	10	,	,	PUNC									PUNC	,	PUNC
+40229	11	садитс€Е	—јƒ»“№—яЕ	V ipf praes sg indic - 3p med	раздельно					€	с	т	V	—јƒ»“№—я...	V ipf praes sg indic - 3p
+40230	12	похоже	ѕќ’ќ∆≈	ADV -			е	ж	о	х	о	п	ADV	ѕќ’ќ∆≈	ADV -
+40231	13	на	Ќј	PR			а	н					PR	Ќј	PR
+40232	14	,	,	PUNC									PUNC	,	PUNC
+40233	15	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	S n inan acc sg
+40234	16	он	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom
+40235	17	падает	ѕјƒј“№	V ipf praes sg indic - 3p			т	е	а	д	а	п	V	ѕјƒј“№	V ipf praes sg indic - 3p
+40236	18	в	¬	PR			в						PR	¬	PR
+40237	19	обморок	ќЅћќ–ќ 	S m inan acc sg			к	о	р	о	м	б	S	ќЅћќ–ќ 	S m inan acc sg
+40238	20	или	»Ћ»	CONJ			и	л	и				CONJ	»Ћ»	CONJ
+40239	21	у	”	PR			у						PR	”	PR
+40240	22	него	ќЌ	SPRO sg 3p m gen			о	г	е	н			SPRO	ќЌ	SPRO sg 3p m acc
+40241	23	что-то	„“ќ-“ќ	SPRO nom 			о	т		о	т	ч	SPRO	„“ќ-“ќ	S n - acc sg
+40242	24	с	—	PR			с						PR	—	PR
+40243	25	сердцем	—≈–ƒ÷≈	S n inan ins sg			м	е	ц	д	р	е	S	—≈–ƒ÷≈	S n inan ins sg
+40244	26	.	.	SENT									SENT	.	SENT
+40245															
+40246	1	Ќу	Ќ”	PART			у	н					PART	Ќ”	PART
+40247	2	и	»	CONJ			и						CONJ	»	CONJ
+40248	3	все	¬≈—№	SPRO - - nom pl			е	с	в				SPRO	¬—≈	S - - nom pl
+40249	4	как-то	 ј -“ќ	ADV -			о	т		к	а	к	ADV	 ј -“ќ	ADV -
+40250	5	спокойно	—ѕќ ќ…Ќќ	ADV -			о	н	й	о	к	о	ADV	—ѕќ ќ…Ќќ	ADV -
+40251	6	проход€т	ѕ–ќ’ќƒ»“№	V ipf praes pl indic - 3p			т	€	д	о	х	о	V	ѕ–ќ’ќƒ»“№	V ipf praes pl indic - 3p
+40252	7	,	,	PUNC									PUNC	,	PUNC
+40253	8	эээ	ЁЁЁ	INTJ			э	э	э				NONLEX	ЁЁЁ	NONLEX
+40254	9	никто	Ќ» “ќ	SPRO nom 			о	т	к	и	н		S	Ќ» “ќ	S m - nom sg
+40255	10	на	Ќј	PR			а	н					PR	Ќј	PR
+40256	11	него	ќЌ	SPRO sg 3p m acc			о	г	е	н			SPRO	ќЌ	SPRO sg 3p m acc
+40257	12	особо	ќ—ќЅќ	ADV -			о	б	о	с	о		ADV	ќ—ќЅќ	ADV -
+40258	13	внимани€	¬Ќ»ћјЌ»≈	S n inan gen sg			€	и	н	а	м	и	S	¬Ќ»ћјЌ»≈	S n inan gen sg
+40259	14	не	Ќ≈	PART			е	н					PART	Ќ≈	PART
+40260	15	обращает	ќЅ–јўј“№	V ipf praes sg indic - 3p			т	е	а	щ	а	р	V	ќЅ–јўј“№	V ipf praes sg indic - 3p
+40261	16	.	.	SENT									SENT	.	SENT
+40262															
+40263	1	ƒари€	ƒј–»я	S f anim nom sg persn			€	и	р	а	д		S	ƒј–»…	S m anim gen sg
+40264	2	@	@	PUNC									PUNC	@	PUNC
+40265	3	ј	ј	CONJ			а						CONJ	ј	CONJ
+40266	4	,	,	PUNC									PUNC	,	PUNC
+40267	5	ну	Ќ”	PART			у	н					PART	Ќ”	PART
+40268	6	вот	¬ќ“	PART			т	о	в				PART	¬ќ“	PART
+40269	7	,	,	PUNC									PUNC	,	PUNC
+40270	8	парень	ѕј–≈Ќ№	S m anim nom sg			ь	н	е	р	а	п	S	ѕј–≈Ќ№	S m anim nom sg
+40271	9	с	—	PR			с						PR	—	PR
+40272	10	девушкойЕ	ƒ≈¬”Ў јЕ	S m anim ins sg	раздельно					й	о	к	S	ƒ≈¬”Ў ј...	S m inan gen sg
+40273	11	они	ќЌ»	SPRO pl - - nom			и	н	о				SPRO	ќЌ»	SPRO pl - - nom
+40274	12	на	Ќј	PR			а	н					PR	Ќј	PR
+40275	13	него	ќЌ	SPRO sg 3p m acc			о	г	е	н			SPRO	ќЌ	SPRO sg 3p m acc
+40276	14	посмотрели	ѕќ—ћќ“–≈“№	V pf praet pl indic - -			и	л	е	р	т	о	V	ѕќ—ћќ“–≈“№	V pf praet pl indic - -
+40277	15	-	-	PUNC									PUNC	-	PUNC
+40278	16	посмотрели	ѕќ—ћќ“–≈“№	V pf praet pl indic - -			и	л	е	р	т	о	V	ѕќ—ћќ“–≈“№	V pf praet pl indic - -
+40279	17	и	»	CONJ			и						CONJ	»	CONJ
+40280	18	пошли	ѕќ…“»	V pf praet pl indic - -			и	л	ш	о	п		V	ѕќ…“»	V pf praet pl indic - -
+40281	19	дальше	ƒјЋ≈ ќ	ADV comp			е	ш	ь	л	а	д	ADV	ƒјЋ≈ ќ	ADV comp
+40282	20	.	.	SENT									SENT	.	SENT
+40283															
+40284	1	¬от	¬ќ“	PART			т	о	в				PART	¬ќ“	PART
+40285	2	дальше	ƒјЋ≈ ќ	ADV comp			е	ш	ь	л	а	д	ADV	ƒјЋ≈ ќ	ADV comp
+40286	3	идет	»ƒ“»	V ipf praes sg indic - 3p			т	е	д	и			V	»ƒ“»	V ipf praes sg indic - 3p
+40287	4	така€	“ј ќ…	APRO - nom sg plen f -			€	а	к	а	т		APRO	“ј ќ…	A - nom sg plen f -
+40288	5	семейна€	—≈ћ≈…Ќџ…	A - nom sg plen f -			€	а	н	й	е	м	A	—≈ћ≈…Ќџ…	A - nom sg plen f -
+40289	6	пара	ѕј–ј	S f inan nom sg			а	р	а	п			S	ѕј–ј	S f inan nom sg
+40290	7	в	¬	PR			в						PR	¬	PR
+40291	8	возрасте	¬ќ«–ј—“	S m inan loc sg			е	т	с	а	р	з	S	¬ќ«–ј—“	S m inan loc sg
+40292	9	...	...	SENT									SENT	...	SENT
+40293															
+40294	1	ќни	ќЌ»	SPRO pl - - nom			и	н	о				SPRO	ќЌ»	SPRO pl - - nom
+40295	2	тоже	“ќ∆≈	ADV			е	ж	о	т			ADV	“ќ∆≈	PART
+40296	3	посмотрели	ѕќ—ћќ“–≈“№	V pf praet pl indic 3p - -			и	л	е	р	т	о	V	ѕќ—ћќ“–≈“№	V pf praet pl indic - -
+40297	4	и	»	CONJ			и						CONJ	»	CONJ
+40298	5	пошли	ѕќ…“»	V pf praet pl indic 3p - -			и	л	ш	о	п		V	ѕќ…“»	V pf praet pl indic - -
+40299	6	дальше	ƒјЋ≈ ќ	ADV comp			е	ш	ь	л	а	д	ADV	ƒјЋ≈ ќ	ADV comp
+40300	7	.	.	SENT									SENT	.	SENT
+40301															
+40302	1	 ороче	 ќ–ќ“ ќ	ADV comp			е	ч	о	р	о	к	ADV	 ќ–ќ„≈	ADV comp
+40303	2	,	,	PUNC									PUNC	,	PUNC
+40304	3	ммм	ћћћ	INTJ			м	м	м				INTJ	ћћћ	S n inan loc sg
+40305	4	что-то	„“ќ-“ќ	SPRO 			о	т		о	т	ч	SPRO	„“ќ-“ќ	S n - acc sg
+40306	5	он	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom
+40307	6	как-то	 ј -“ќ	ADV -			о	т		к	а	к	ADV	 ј -“ќ	ADV -
+40308	7	желани€	∆≈ЋјЌ»≈	S n inan gen sg			€	и	н	а	л	е	S	∆≈ЋјЌ»≈	S n inan nom pl
+40309	8	помочь	ѕќћќ„№	V inf pf			ь	ч	о	м	о	п	V	ѕќћќ„№	S f inan acc sg
+40310	9	не	Ќ≈	PART			е	н					PART	Ќ≈	PART
+40311	10	вызывает	¬џ«џ¬ј“№	V ipf praes sg indic - 3p			т	е	а	в	ы	з	V	¬џ«џ¬ј“№	V ipf praes sg indic - 3p
+40312	11	,	,	PUNC									PUNC	,	PUNC
+40313	12	видимо	¬»ƒ»ћќ	ADV -			о	м	и	д	и	в	ADV	¬»ƒ»ћќ	ADV -
+40314	13	.	.	SENT									SENT	.	SENT
+40315															
+40316	1	ћаксимум	ћј —»ћ”ћ	S m inan nom sg			м	у	м	и	с	к	S	ћј —»ћ”ћ	S m inan nom sg
+40317	2	все	¬≈—№	SPRO - nom pl plen - -			е	с	в				SPRO	¬≈—№	A - nom pl plen - -
+40318	3	просто	ѕ–ќ—“ќ	PART			о	т	с	о	р	п	PART	ѕ–ќ—“ќ	ADV -
+40319	4	огл€дываютс€	ќ√Ћяƒџ¬ј“№—я	V ipf praes pl indic - 3p			€	с	т	ю	а	в	V	ќ√Ћяƒџ¬ј“№—я	V ipf praes pl indic - 3p
+40320	5	иии	»»»	CONJ			и	и	и				CONJ	»»»	S m inan gen sg
+40321	6	шествуют	Ў≈—“¬ќ¬ј“№	V ipf praes pl indic - 3p			т	ю	у	в	т	с	V	Ў≈—“¬ќ¬ј“№	V ipf praes pl indic - 3p
+40322	7	по	ѕќ	PR			о	п					PR	ѕќ	PR
+40323	8	улице	”Ћ»÷ј	S f inan loc sg			е	ц	и	л	у		S	”Ћ»÷ј	S f inan loc sg
+40324	9	.	.	SENT									SENT	.	SENT
+40325															
+40326	1	ƒевушка	ƒ≈¬”Ў ј	S f anim nom sg			а	к	ш	у	в	е	S	ƒ≈¬”Ў ј	S f anim nom sg
+40327	2	даже	ƒј∆≈	PART			е	ж	а	д			PART	ƒј∆≈	PART
+40328	3	не	Ќ≈	PART			е	н					PART	Ќ≈	PART
+40329	4	огл€нулась	ќ√ЋяЌ”“№—я	V pf praet sg indic f -			ь	с	а	л	у	н	V	ќ√ЋяЌ”“№—я	V pf praet sg indic f -
+40330	5	.	.	SENT									SENT	.	SENT
+40331															
+40332	1	Ќу	Ќ”	PART			у	н					PART	Ќ”	PART
+40333	2	,	,	PUNC									PUNC	,	PUNC
+40334	3	хорошо	’ќ–ќЎќ	ADV -			о	ш	о	р	о	х	ADV	’ќ–ќЎќ	ADV -
+40335	4	,	,	PUNC									PUNC	,	PUNC
+40336	5	бывает	Ѕџ¬ј“№	V ipf praes sg indic - 3p			т	е	а	в	ы	б	V	Ѕџ¬ј“№	V ipf praes sg indic - 3p
+40337	6	.	.	SENT									SENT	.	SENT
+40338															
+40339	1	ЌуЕ	Ќ”Е	PART	раздельно					у	н		PART	Ќ”...	PART
+40340	2	дальше	ƒјЋ≈ ќ	ADV comp			е	ш	ь	л	а	д	ADV	ƒјЋ≈ ќ	ADV comp
+40341	3	оп€ть	ќѕя“№	ADV -			ь	т	€	п	о		ADV	ќѕя“№	ADV -
+40342	4	р€д	–яƒ	S m inan nom sg			д	€	р				S	–яƒ	S m inan acc sg
+40343	5	одинакова€	ќƒ»Ќј ќ¬џ…	A - nom sg plen f -			€	а	в	о	к	а	A	ќƒ»Ќј ќ¬џ…	A - nom sg plen f -
+40344	6	реакци€	–≈ј ÷»я	S f inan nom sg			€	и	ц	к	а	е	S	–≈ј ÷»я	S f inan nom sg
+40345	7	,	,	PUNC									PUNC	,	PUNC
+40346	8	собственно	—ќЅ—“¬≈ЌЌќ	PARENTH			о	н	н	е	в	т	PARENTH	—ќЅ—“¬≈ЌЌќ	ADV -
+40347	9	,	,	PUNC									PUNC	,	PUNC
+40348	10	мне	я	SPRO sg 1p - dat			е	н	м				SPRO	я	SPRO sg 1p - loc
+40349	11	кажетс€	 ј«ј“№—я	V ipf praes sg indic - 3p			€	с	т	е	ж	а	V	 ј«ј“№—я	V ipf praes sg indic - 3p
+40350	12	,	,	PUNC									PUNC	,	PUNC
+40351	13	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ
+40352	14	уже	”∆≈	ADV -			е	ж	у				ADV	”∆≈	ADV -
+40353	15	можно	ћќ∆Ќќ	ADV -			о	н	ж	о	м		ADV	ћќ∆Ќќ	ADV -
+40354	16	было	Ѕџ“№	V ipf praet sg indic n -			о	л	ы	б			V	Ѕџ“№	V ipf praet sg indic n -
+40355	17	к	 	PR			к						PR	 	PR
+40356	18	другой	ƒ–”√ќ…	A - dat sg plen f -			й	о	г	у	р	д	A	ƒ–”√ќ…	A - loc sg plen f -
+40357	19	стране	—“–јЌј	S f inan dat sg			е	н	а	р	т	с	S	—“–јЌј	S f inan loc sg
+40358	20	перейти	ѕ≈–≈…“»	V pf - - inf - -			и	т	й	е	р	е	V	ѕ≈–≈…“»	V pf - - inf - -
+40359	21	,	,	PUNC									PUNC	,	PUNC
+40360	22	потому что	потому что	CONJ			о	т	ч	 	у	м	CONJ	потому что	ZERO
+40361	23	с	—	PR			с						PR	—	PR
+40362	24	&	&	PUNC									PUNC	&	PUNC
+40363	25	lt	LT	NONLEX									NONLEX	LT	NONLEX
+40364	26	";"	";"	PUNC									PUNC	";"	PUNC
+40365	27	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+40366	28	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+40367	29	=	=	PUNC									PUNC	=	PUNC
+40368	30	&	&	PUNC									PUNC	&	PUNC
+40369	31	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40370	32	";"	";"	PUNC									PUNC	";"	PUNC
+40371	33	санпетербургом	—јЌ “-ѕ≈“≈–Ѕ”–√	S m inan ins distort			м	о	г	р	у	б	S	—јЌѕ≈“≈–Ѕ”–√	S m inan ins sg
+40372	34	&	&	PUNC									PUNC	&	PUNC
+40373	35	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40374	36	";"	";"	SENT									SENT	";"	SENT
+40375															
+40376	1	&	&	PUNC									PUNC	&	PUNC
+40377	2	gt	GT	NONLEX									NONLEX	GT	NONLEX
+40378	3	";"	";"	SENT									SENT	";"	SENT
+40379															
+40380	1	—анкт-ѕетербургом	—јЌ “-ѕ≈“≈–Ѕ”–√	S m inan ins sg			м	о	г	р	у	б	S	—јЌ “-ѕ≈“≈–Ѕ”–√	S m inan ins sg
+40381	2	&	&	PUNC									PUNC	&	PUNC
+40382	3	lt	LT	NONLEX									NONLEX	LT	NONLEX
+40383	4	";"	";"	SENT									SENT	";"	SENT
+40384															
+40385	1	/	/	PUNC									PUNC	/	PUNC
+40386	2	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+40387	3	&	&	PUNC									PUNC	&	PUNC
+40388	4	gt	GT	NONLEX									NONLEX	GT	NONLEX
+40389	5	";"	";"	SENT									SENT	";"	SENT
+40390															
+40391	1	ничего	Ќ»„“ќ	SPRO - gen sg			о	г	е	ч	и	н	SPRO	Ќ»„“ќ	S n - gen sg
+40392	2	хорошего	’ќ–ќЎ»…	A - gen sg plen n -			о	г	е	ш	о	р	A	’ќ–ќЎ»…	A - gen sg plen n -
+40393	3	не	Ќ≈	PART			е	н					PART	Ќ≈	PART
+40394	4	выйдет	¬џ…“»	V pf fut sg indic - 3p			т	е	д	й	ы	в	V	¬џ…“»	V pf fut sg indic - 3p
+40395	5	.	.	SENT									SENT	.	SENT
+40396															
+40397	1	ƒари€	ƒј–»я	S f anim nom sg persn			€	и	р	а	д		S	ƒј–»…	S m anim gen sg
+40398	2	@	@	PUNC									PUNC	@	PUNC
+40399	3	ќн	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom
+40400	4	ужеЕ	”∆≈Е	ADV -	раздельно					е	ж	у	ADV	”∆≈...	ADV -
+40401	5	помен€л	ѕќћ≈Ќя“№	V pf praet sg indic m -			л	€	н	е	м	о	V	ѕќћ≈Ќя“№	V pf praet sg indic m -
+40402	6	позу	ѕќ«ј	S f inan acc sg			у	з	о	п			S	ѕќ«ј	S f inan acc sg
+40403	7	.	.	SENT									SENT	.	SENT
+40404															
+40405	1	“еперь	“≈ѕ≈–№	ADV -			ь	р	е	п	е	т	ADV	“≈ѕ≈–№	ADV -
+40406	2	он	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom
+40407	3	просто	ѕ–ќ—“ќ	PART			о	т	с	о	р	п	PART	ѕ–ќ—“ќ	PART
+40408	4	сидит	—»ƒ≈“№	V ipf praes sg indic - 3p			т	и	д	и	с		V	—»ƒ≈“№	V ipf praes sg indic - 3p
+40409	5	и	»	CONJ			и						CONJ	»	CONJ
+40410	6	держит	ƒ≈–∆ј“№	V ipf praes sg indic - 3p			т	и	ж	р	е	д	V	ƒ≈–∆ј“№	V ipf praes sg indic - 3p
+40411	7	руку	–” ј	S f inan acc sg			у	к	у	р			S	–” ј	S f inan acc sg
+40412	8	на	Ќј	PR			а	н					PR	Ќј	PR
+40413	9	груди	√–”ƒ№	S f inan loc2 sg			и	д	у	р	г		S	√–”ƒ№	S f inan loc2 sg
+40414	10	вот	¬ќ“	PART			т	о	в				PART	¬ќ“	PART
+40415	11	так	“ј 	ADV -			к	а	т				ADV	“ј 	ADV -
+40416	12	вот	¬ќ“	PART			т	о	в				PART	¬ќ“	PART
+40417	13	.	.	SENT									SENT	.	SENT
+40418															
+40419	1	ƒари€	ƒј–»я	S f anim nom sg persn			€	и	р	а	д		S	ƒј–»…	S m anim gen sg
+40420	2	@	@	PUNC									PUNC	@	PUNC
+40421	3	јаа	јјј	INTJ			а	а	а				INTJ	јјј	S m inan nonflex nonflex
+40422	4	,	,	PUNC									PUNC	,	PUNC
+40423	5	вот	¬ќ“	PART			т	о	в				PART	¬ќ“	PART
+40424	6	идет	»ƒ“»	V ipf praes sg indic - 3p			т	е	д	и			V	»ƒ“»	V ipf praes sg indic - 3p
+40425	7	какой-то	 ј ќ…-“ќ	A - nom sg plen m -			о	т		й	о	к	A	 ј ќ…-“ќ	A - nom sg plen m -
+40426	8	мужчина	ћ”∆„»Ќј	S m anim nom sg			а	н	и	ч	ж	у	S	ћ”∆„»Ќј	S m anim nom sg
+40427	9	с	—	PR			с						PR	—	PR
+40428	10	двум€	ƒ¬ј	NUM ins - -			€	м	у	в	д		NUM	ƒ¬ј	NUM ins - -
+40429	11	детьми	–≈Ѕ≈Ќќ 	S m anim ins pl			и	м	ь	т	е	д	S	–≈Ѕ≈Ќќ 	S m anim ins pl
+40430	12	.	.	SENT									SENT	.	SENT
+40431															
+40432	1	ќн	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom
+40433	2	тоже	“ќ∆≈	PART			е	ж	о	т			PART	“ќ∆≈	PART
+40434	3	на	Ќј	PR			а	н					PR	Ќј	PR
+40435	4	него	ќЌ	SPRO sg 3p m acc			о	г	е	н			SPRO	ќЌ	SPRO sg 3p m acc
+40436	5	так	“ј 	ADV -			к	а	т				ADV	“ј 	ADV -
+40437	6	посмотрел	ѕќ—ћќ“–≈“№	V pf praet sg indic m -			л	е	р	т	о	м	V	ѕќ—ћќ“–≈“№	V pf praet sg indic m -
+40438	7	и	»	CONJ			и						CONJ	»	CONJ
+40439	8	дальше	ƒјЋ≈ ќ	ADV comp			е	ш	ь	л	а	д	ADV	ƒјЋ≈ ќ	ADV comp
+40440	9	пошел	ѕќ…“»	V pf praet sg indic m -			л	е	ш	о	п		V	ѕќ…“»	V pf praet sg indic m -
+40441	10	.	.	SENT									SENT	.	SENT
+40442															
+40443	1	“ак..	“ј ..	PART	раздельно				к	а	т		PART	“ј ..	ADV -
+40444	2	он	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom
+40445	3	продолжает	ѕ–ќƒќЋ∆ј“№	V ipf praes sg indic - 3p			т	е	а	ж	л	о	V	ѕ–ќƒќЋ∆ј“№	V ipf praes sg indic - 3p
+40446	4	сидеть	—»ƒ≈“№	V ipf - - inf - -			ь	т	е	д	и	с	V	—»ƒ≈“№	V ipf - - inf - -
+40447	5	,	,	PUNC									PUNC	,	PUNC
+40448	6	на	Ќј	PR			а	н					PR	Ќј	PR
+40449	7	него	ќЌ	SPRO sg 3p m acc			о	г	е	н			SPRO	ќЌ	SPRO sg 3p m acc
+40450	8	продолжают	ѕ–ќƒќЋ∆ј“№	V ipf praes pl indic - 3p			т	ю	а	ж	л	о	V	ѕ–ќƒќЋ∆ј“№	V ipf praes pl indic - 3p
+40451	9	смотреть	—ћќ“–≈“№	V ipf - - inf - -			ь	т	е	р	т	о	V	—ћќ“–≈“№	V ipf - - inf - -
+40452	10	и	»	CONJ			и						CONJ	»	CONJ
+40453	11	ничего	Ќ»„“ќ	SPRO n - gen sg			о	г	е	ч	и	н	SPRO	Ќ»„“ќ	S n - gen sg
+40454	12	не	Ќ≈	PART			е	н					PART	Ќ≈	PART
+40455	13	делать	ƒ≈Ћј“№	V ipf - - inf - -			ь	т	а	л	е	д	V	ƒ≈Ћј“№	V ipf - - inf - -
+40456	14	.	.	SENT									SENT	.	SENT
+40457															
+40458	1	ƒари€	ƒј–»я	S f anim nom sg persn			€	и	р	а	д		S	ƒј–»…	S m anim gen sg
+40459	2	@	@	PUNC									PUNC	@	PUNC
+40460	3	ќн	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom
+40461	4	сидит	—»ƒ≈“№	V ipf praes sg indic - 3p			т	и	д	и	с		V	—»ƒ≈“№	V ipf praes sg indic - 3p
+40462	5	на	Ќј	PR			а	н					PR	Ќј	PR
+40463	6	фоне	‘ќЌ	S m inan loc sg			е	н	о	ф			S	‘ќЌ	S m inan loc sg
+40464	7	вывески	¬џ¬≈— ј	S f inan gen sg			и	к	с	е	в	ы	S	¬џ¬≈— ј	S f inan gen sg
+40465	8	&	&	PUNC									PUNC	&	PUNC
+40466	9	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40467	10	";"	";"	SENT									SENT	";"	SENT
+40468															
+40469	1	“юль	“ёЋ№	S m inan nom sg			ь	л	ю	т			S	“ёЋ№	S m inan nom sg
+40470	2	,	,	PUNC									PUNC	,	PUNC
+40471	3	шторы	Ў“ќ–ј	S f inan nom pl			ы	р	о	т	ш		S	Ў“ќ–ј	S f inan nom pl
+40472	4	&	&	PUNC									PUNC	&	PUNC
+40473	5	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40474	6	";"	";"	SENT									SENT	";"	SENT
+40475															
+40476	1	и	»	CONJ			и						CONJ	»	CONJ
+40477	2	еще	≈ў≈	ADV -			е	щ	е				ADV	≈ў≈	ADV -
+40478	3	что-то	„“ќ-“ќ	SPRO n - nom sg			о	т		о	т	ч	SPRO	„“ќ-“ќ	S n - nom sg
+40479	4	там	“јћ	ADV -			м	а	т				ADV	“јћ	ADV -
+40480	5	.	.	SENT									SENT	.	SENT
+40481															
+40482	1	 аждый	 ј∆ƒџ…	A - nom sg plen m -			й	ы	д	ж	а	к	A	 ј∆ƒџ…	A - nom sg plen m -
+40483	2	раз	–ј«	S m inan nom sg			з	а	р				S	–ј«	S m inan nom sg
+40484	3	нам	ћџ	SPRO pl 1p - dat			м	а	н				SPRO	ћџ	SPRO pl 1p - dat
+40485	4	камера	 јћ≈–ј	S f inan nom sg			а	р	е	м	а	к	S	 јћ≈–ј	S f inan nom sg
+40486	5	показывает	ѕќ ј«џ¬ј“№	V ipf praes sg indic - 3p			т	е	а	в	ы	з	V	ѕќ ј«џ¬ј“№	V ipf praes sg indic - 3p
+40487	6	замееедленный	«јћ≈ƒЋ≈ЌЌџ…	A - nom sg plen m -distort			й	ы	н	н	е	л	A	«јћ≈≈≈ƒЋ≈ЌЌџ…	A - nom sg plen m -
+40488	7	поворот	ѕќ¬ќ–ќ“	S m inan nom sg			т	о	р	о	в	о	S	ѕќ¬ќ–ќ“	S m inan nom sg
+40489	8	головы	√ќЋќ¬ј	S f inan gen sg			ы	в	о	л	о	г	S	√ќЋќ¬ј	S f inan gen sg
+40490	9	перед	ѕ≈–≈ƒ	CONJ	слитно		д	е	р	е	п		PR	ѕ≈–≈ƒ	PR
+40491	10	тем	“ќ	CONJ	слитно		м	е	т				S	“ќ	S n - ins sg
+40492	11	как	 ј 	CONJ	слитно		к	а	к				CONJ	 ј 	CONJ
+40493	12	человек	„≈Ћќ¬≈ 	S m anim nom sg			к	е	в	о	л	е	S	„≈Ћќ¬≈ 	S m anim nom sg
+40494	13	идет	»ƒ“»	V ipf praes sg indic - 3p			т	е	д	и			V	»ƒ“»	V ipf praes sg indic - 3p
+40495	14	куда-то	 ”ƒј-“ќ	ADV -			о	т		а	д	у	ADV	 ”ƒј-“ќ	ADV -
+40496	15	дальше	ƒјЋ≈ ќ	ADV comp			е	ш	ь	л	а	д	ADV	ƒјЋ≈ ќ	ADV comp
+40497	16	.	.	SENT									SENT	.	SENT
+40498															
+40499	1	ƒари€	ƒј–»я	S f anim nom sg persn			€	и	р	а	д		S	ƒј–»…	S m anim gen sg
+40500	2	@	@	PUNC									PUNC	@	PUNC
+40501	3	ј	ј	PART			а						CONJ	ј	CONJ
+40502	4	,	,	PUNC									PUNC	,	PUNC
+40503	5	спасение	—ѕј—≈Ќ»≈	S n inan nom sg			е	и	н	е	с	а	S	—ѕј—≈Ќ»≈	S n inan nom sg
+40504	6	пришло	ѕ–»…“»	V pf praet sg indic n -			о	л	ш	и	р	п	V	ѕ–»…“»	V pf praet sg indic n -
+40505	7	через	„≈–≈«	PR			з	е	р	е	ч		PR	„≈–≈«	PR
+40506	8	полтора	ѕќЋ“ќ–ј	NUM acc m -			а	р	о	т	л	о	NUM	ѕќЋ“ќ–ј	NUM nom m -
+40507	9	часа	„ј—	S m inan -gen sg			а	с	а	ч			S	„ј—	S m inan - sg
+40508	10	после	ѕќ—Ћ≈	PR			е	л	с	о	п		PR	ѕќ—Ћ≈	PR
+40509	11	съемок	—Џ≈ћ ј	S m inan gen sg			к	о	м	е	ъ	с	S	—Џ≈ћ ј	S m inan loc sg
+40510	12	.	.	SENT									SENT	.	SENT
+40511															
+40512	1	“о есть	“о есть	CONJ			ь	т	с	е	 	о	CONJ	“о есть	-
+40513	2	они	ќЌ»	SPRO pl - - nom			и	н	о				SPRO	ќЌ»	SPRO pl - - nom
+40514	3	полтора	ѕќЋ“ќ–ј	NUM nom m -			а	р	о	т	л	о	NUM	ѕќЋ“ќ–ј	NUM nom m -
+40515	4	часа	„ј—	S m inan -gen sg			а	с	а	ч			S	„ј—	S m inan - sg
+40516	5	снимали	—Ќ»ћј“№	V ipf praet pl indic - -			и	л	а	м	и	н	V	—Ќ»ћј“№	V ipf praet pl indic - -
+40517	6	.	.	SENT									SENT	.	SENT
+40518															
+40519	1	¬от	¬ќ“	PART			т	о	в				PART	¬ќ“	PART
+40520	2	тут...	“”“...	ADV -	раздельно					т	у	т	ADV	“”“...	ADV -
+40521	3	ммм...	ћћћ...	INTJ	раздельно					м	м	м	INTJ	ћћћ...	S m anim dat sg
+40522	4	кака€-то	 ј ќ…-“ќ	A - nom sg plen f -			о	т		€	а	к	A	 ј ќ…-“ќ	A - nom sg plen f -
+40523	5	женщина	∆≈Ќў»Ќј	S f anim nom sg			а	н	и	щ	н	е	S	∆≈Ќў»Ќј	S f anim nom sg
+40524	6	.	.	SENT									SENT	.	SENT
+40525															
+40526	1	я	я	SPRO sg 1p - nom			€						SPRO	я	SPRO sg 1p - nom
+40527	2	не	Ќ≈	PART			е	н					PART	Ќ≈	PART
+40528	3	вижу	¬»ƒ≈“№	V ipf praes sg indic - 1p			у	ж	и	в			V	¬»ƒ≈“№	V ipf praes sg indic - 1p
+40529	4	,	,	PUNC									PUNC	,	PUNC
+40530	5	какого	 ј ќ…	A - gen sg plen m -			о	г	о	к	а	к	A	 ј ќ…	A - gen sg plen m -
+40531	6	она	ќЌј	SPRO sg 3p f nom			а	н	о				SPRO	ќЌј	SPRO sg 3p f nom
+40532	7	возраста	¬ќ«–ј—“	S m inan gen sg			а	т	с	а	р	з	S	¬ќ«–ј—“	S m inan gen sg
+40533	8	.	.	SENT									SENT	.	SENT
+40534															
+40535	1	ќна	ќЌј	SPRO sg 3p f nom			а	н	о				SPRO	ќЌј	SPRO sg 3p f nom
+40536	2	к	 	PR			к						PR	 	PR
+40537	3	нему	ќЌ	SPRO sg 3p m dat			у	м	е	н			SPRO	ќЌ	SPRO sg 3p m dat
+40538	4	подходит	ѕќƒ’ќƒ»“№	V ipf praes sg indic - 3p			т	и	д	о	х	д	V	ѕќƒ’ќƒ»“№	V ipf praes sg indic - 3p
+40539	5	,	,	PUNC									PUNC	,	PUNC
+40540	6	стараетс€	—“ј–ј“№—я	V ipf praes sg indic - 3p			€	с	т	е	а	р	V	—“ј–ј“№—я	V ipf praes sg indic - 3p
+40541	7	ему	ќЌ	SPRO sg 3p m dat			у	м	е				SPRO	ќЌ	SPRO sg 3p m dat
+40542	8	помочь	ѕќћќ„№	V inf pf			ь	ч	о	м	о	п	V	ѕќћќ„№	S f inan acc sg
+40543	9	,	,	PUNC									PUNC	,	PUNC
+40544	10	что-то	„“ќ-“ќ	SPRO n - acc sg			о	т		о	т	ч	SPRO	„“ќ-“ќ	S n - nom sg
+40545	11	ему	ќЌ	SPRO sg 3p m dat			у	м	е				SPRO	ќЌ	SPRO sg 3p m dat
+40546	12	спрашивает	—ѕ–јЎ»¬ј“№	V ipf praes sg indic - 3p			т	е	а	в	и	ш	V	—ѕ–јЎ»¬ј“№	V ipf praes sg indic - 3p
+40547	13	.	.	SENT									SENT	.	SENT
+40548															
+40549	1	»	»	CONJ			и						CONJ	»	CONJ
+40550	2	это	Ё“ќ	SPRO - nom sg			о	т	э				SPRO	Ё“ќ	S n - nom sg
+40551	3	было	Ѕџ“№	V ipf praet sg indic n -			о	л	ы	б			V	Ѕџ“№	V ipf praet sg indic n -
+40552	4	только	“ќЋ№ ќ	PART			о	к	ь	л	о	т	PART	“ќЋ№ ќ	PART
+40553	5	через	„≈–≈«	PR			з	е	р	е	ч		PR	„≈–≈«	PR
+40554	6	полтора	ѕќЋ“ќ–ј	NUM acc m -			а	р	о	т	л	о	NUM	ѕќЋ“ќ–ј	NUM nom m -
+40555	7	часа	„ј—	S m inan gen - sg			а	с	а	ч			S	„ј—	S m inan - sg
+40556	8	.	.	SENT									SENT	.	SENT
+40557															
+40558	1	»	»	CONJ			и						CONJ	»	CONJ
+40559	2	,	,	PUNC									PUNC	,	PUNC
+40560	3	кстати	 —“ј“»	PARENTH			и	т	а	т	с	к	PARENTH	 —“ј“»	ADV -
+40561	4	,	,	PUNC									PUNC	,	PUNC
+40562	5	вот	¬ќ“	PART			т	о	в				PART	¬ќ“	PART
+40563	6	когда	 ќ√ƒј	CONJ			а	д	г	о	к		CONJ	 ќ√ƒј	CONJ
+40564	7	она	ќЌј	SPRO sg 3p f nom			а	н	о				SPRO	ќЌј	SPRO sg 3p f nom
+40565	8	подошла	ѕќƒќ…“»	V pf praet sg indic f -			а	л	ш	о	д	о	V	ѕќƒќ…“»	V pf praet sg indic f -
+40566	9	,	,	PUNC									PUNC	,	PUNC
+40567	10	вокруг	¬ќ –”√	PR			г	у	р	к	о	в	PR	¬ќ –”√	PR
+40568	11	него...	ќЌ...	SPRO sg 3p m gen	раздельно					о	г	е	SPRO	ќЌ...	SPRO sg 3p m acc
+40569	12	ммм...	ћћћ...	PARENTH	раздельно					м	м	м	PARENTH	ћћћ...	S m inan gen sg
+40570	13	собра...	—ќЅ–ќ...	distort	слитно					а	р	б	S	—ќЅ–ќ...	S n inan gen sg
+40571	14	собрались	—ќЅ–ј“№—я	V pf praet pl indic - -			ь	с	и	л	а	р	V	—ќЅ–ј“№—я	V pf praet pl indic - -
+40572	15	еще	≈ў≈	ADV -			е	щ	е				ADV	≈ў≈	ADV -
+40573	16	люди	„≈Ћќ¬≈ 	S m anim nom pl			и	д	ю	л			S	„≈Ћќ¬≈ 	S m anim nom pl
+40574	17	:	:	PUNC									PUNC	:	PUNC
+40575	18	два	ƒ¬ј	NUM nom m inan			а	в	д				NUM	ƒ¬ј	NUM acc m inan
+40576	19	человека	„≈Ћќ¬≈ 	S m anim nom pl			а	к	е	в	о	л	S	„≈Ћќ¬≈ 	S m anim gen sg
+40577	20	.	.	SENT									SENT	.	SENT
+40578															
+40579	1	ƒари€	ƒј–»я	S f anim nom sg persn			€	и	р	а	д		S	ƒј–»…	S m anim gen sg
+40580	2	@	@	PUNC									PUNC	@	PUNC
+40581	3	“ак	“ј 	ADV -			к	а	т				ADV	“ј 	ADV -
+40582	4	теперь	“≈ѕ≈–№	ADV -			ь	р	е	п	е	т	ADV	“≈ѕ≈–№	ADV -
+40583	5	—оединенные	—ќ≈ƒ»Ќ≈ЌЌџ…	A - acc pl plen - inan			е	ы	н	н	е	н	A	—ќ≈ƒ»Ќ≈ЌЌџ…	A - acc pl plen - inan
+40584	6	Ўтаты	Ў“ј“	S m inan nom pl			ы	т	а	т	ш		S	Ў“ј“	S m inan nom pl
+40585	7	јмерики	јћ≈–» ј	S f inan gen sg			и	к	и	р	е	м	S	јћ≈–» ј	S f inan gen sg
+40586	8	,	,	PUNC									PUNC	,	PUNC
+40587	9	город	√ќ–ќƒ	S m inan nom sg			д	о	р	о	г		S	√ќ–ќƒ	S m inan nom sg
+40588	10	ћай€ми	ћј…я	S m anim nom sg			и	м	€	й	а	м	S	ћј…я	S m anim nom sg
+40589	11	.	.	SENT									SENT	.	SENT
+40590															
+40591	1	ѕосмотрим	ѕќ—ћќ“–≈“№	V pf - pl imper - 1p			м	и	р	т	о	м	V	ѕќ—ћќ“–≈“№	V pf - pl imper - 1p
+40592	2	,	,	PUNC									PUNC	,	PUNC
+40593	3	как	 ј 	CONJ			к	а	к				CONJ	 ј 	CONJ
+40594	4	в	¬	PR			в						PR	¬	PR
+40595	5	бездуховной	Ѕ≈«ƒ”’ќ¬Ќџ…	A - loc sg plen m -			й	о	н	в	о	х	A	Ѕ≈«ƒ”’ќ¬Ќџ…	A - gen sg plen m -
+40596	6	јмерике...	јћ≈–» ј...	S m inan loc2 sg	раздельно					е	к	и	S	јћ≈–» ј...	S m inan gen sg
+40597	7	происходит	ѕ–ќ»—’ќƒ»“№	V ipf praes sg indic - 3p			т	и	д	о	х	с	V	ѕ–ќ»—’ќƒ»“№	V ipf praes sg indic - 3p
+40598	8	.	.	SENT									SENT	.	SENT
+40599															
+40600	1	¬се	¬—≈	SPRO - - nom pl			е	с	в				SPRO	¬—≈	S - - nom pl
+40601	2	в	¬	PR			в						PR	¬	PR
+40602	3	пор€дке	ѕќ–яƒќ 	S m inan loc sg			е	к	д	€	р	о	S	ѕќ–яƒќ 	S m inan loc sg
+40603	4	.	.	SENT									SENT	.	SENT
+40604															
+40605	1	 	 	PR			к						PR	 	PR
+40606	2	нему	ќЌ	SPRO sg 3p m dat			у	м	е	н			SPRO	ќЌ	SPRO sg 3p m dat
+40607	3	сразу	—–ј«”	ADV -			у	з	а	р	с		ADV	—–ј«”	ADV -
+40608	4	же	∆≈	PART			е	ж					PART	∆≈	PART
+40609	5	подошли	ѕќƒќ…“»	V pf - pl indic - 3p			и	л	ш	о	д	о	V	ѕќƒќ—Ћј“№	V pf - sg imper - 2p
+40610	6	два	ƒ¬ј	NUM nom m inan			а	в	д				NUM	ƒ¬ј	NUM acc m inan
+40611	7	парн€	ѕј–≈Ќ№	S m anim gen sg			€	н	р	а	п		S	ѕј–≈Ќ№	S m anim gen sg
+40612	8	и	»	CONJ			и						CONJ	»	CONJ
+40613	9	спросили	—ѕ–ќ—»“№	V pf praet pl indic - -			и	л	и	с	о	р	V	—ѕ–ќ—»“№	V pf praet pl indic - -
+40614	10	:	:	PUNC									PUNC	:	PUNC
+40615	11	&	&	PUNC									PUNC	&	PUNC
+40616	12	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40617	13	";"	";"	SENT									SENT	";"	SENT
+40618															
+40619	1	¬се	¬—≈	SPRO - - acc pl			е	с	в				SPRO	¬—≈	S - - acc pl
+40620	2	в	¬	PR			в						PR	¬	PR
+40621	3	пор€дке	ѕќ–яƒќ 	S m inan loc sg			е	к	д	€	р	о	S	ѕќ–яƒќ 	S m inan loc sg
+40622	4	,	,	PUNC									PUNC	,	PUNC
+40623	5	мужик	ћ”∆» 	S m anim nom sg			к	и	ж	у	м		S	ћ”∆» 	S m anim nom sg
+40624	6	?	?	PUNC									PUNC	?	PUNC
+40625	7	&	&	PUNC									PUNC	&	PUNC
+40626	8	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40627	9	";"	";"	SENT									SENT	";"	SENT
+40628															
+40629	1	-	-	PUNC									PUNC	-	PUNC
+40630	2	&	&	PUNC									PUNC	&	PUNC
+40631	3	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40632	4	";"	";"	SENT									SENT	";"	SENT
+40633															
+40634	1	Ќет	Ќ≈“	PART			т	е	н				PART	Ќ≈“	PART
+40635	2	,	,	PUNC									PUNC	,	PUNC
+40636	3	спасибо	—ѕј—»Ѕќ	PART			о	б	и	с	а	п	PART	—ѕј—»Ѕќ	S n inan nonflex nonflex
+40637	4	,	,	PUNC									PUNC	,	PUNC
+40638	5	резка€	–≈« »…	A - nom sg plen f -			€	а	к	з	е	р	A	–≈« »…	A - nom sg plen f -
+40639	6	боль	ЅќЋ№	S f inan nom sg			ь	л	о	б			S	ЅќЋ№	S f inan nom sg
+40640	7	в	¬	PR			в						PR	¬	PR
+40641	8	животе	∆»¬ќ“	S m inan loc sg			е	т	о	в	и	ж	S	∆»¬ќ“	S m inan loc sg
+40642	9	&	&	PUNC									PUNC	&	PUNC
+40643	10	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40644	11	";"	";"	SENT									SENT	";"	SENT
+40645															
+40646	1	-	-	PUNC									PUNC	-	PUNC
+40647	2	&	&	PUNC									PUNC	&	PUNC
+40648	3	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40649	4	";"	";"	SENT									SENT	";"	SENT
+40650															
+40651	1	ѕомочь	ѕќћќ„№	V inf ipf			ь	ч	о	м	о	п	V	ѕќћќ„№	S f inan acc sg
+40652	2	тебе	“џ	SPRO sg 2p - dat			е	б	е	т			SPRO	“џ	SPRO sg 2p - loc
+40653	3	подн€тьс€	ѕќƒЌя“№—я	V pf - - inf - -			€	с	ь	т	€	н	V	ѕќƒЌя“№—я	V pf - - inf - -
+40654	4	?	?	PUNC									PUNC	?	PUNC
+40655	5	&	&	PUNC									PUNC	&	PUNC
+40656	6	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40657	7	";"	";"	SENT									SENT	";"	SENT
+40658															
+40659	1	-	-	PUNC									PUNC	-	PUNC
+40660	2	&	&	PUNC									PUNC	&	PUNC
+40661	3	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40662	4	";"	";"	SENT									SENT	";"	SENT
+40663															
+40664	1	ƒа	ƒј	PART			а	д					PART	ƒј	PART
+40665	2	,	,	PUNC									PUNC	,	PUNC
+40666	3	помогите	ѕќћќ„№	V pf - pl imper - 2p			е	т	и	г	о	м	V	ѕќћќ„№	V pf - pl imper - 2p
+40667	4	&	&	PUNC									PUNC	&	PUNC
+40668	5	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40669	6	";"	";"	SENT									SENT	";"	SENT
+40670															
+40671	1	ќни	ќЌ»	SPRO pl - - nom			и	н	о				SPRO	ќЌ»	SPRO pl - - nom
+40672	2	его..	ќЌ..	SPRO sg 3p m acc	раздельно				о	г	е		SPRO	ќЌ..	SPRO sg 3p m acc
+40673	3	подн€ли	ѕќƒЌя“№	V pf praet pl indic - -			и	л	€	н	д	о	V	ѕќƒЌя“№	V pf praet pl indic - -
+40674	4	.	.	SENT									SENT	.	SENT
+40675															
+40676	1	ƒари€	ƒј–»я	S f anim nom sg persn			€	и	р	а	д		S	ƒј–»…	S m anim gen sg
+40677	2	@	@	PUNC									PUNC	@	PUNC
+40678	3	“ак	“ј 	ADV -			к	а	т				ADV	“ј 	ADV -
+40679	4	,	,	PUNC									PUNC	,	PUNC
+40680	5	теперь	“≈ѕ≈–№	ADV -			ь	р	е	п	е	т	ADV	“≈ѕ≈–№	ADV -
+40681	6	на	Ќј	PR			а	н					PR	Ќј	PR
+40682	7	набережной	ЌјЅ≈–≈∆Ќјя	S f inan loc sg			й	о	н	ж	е	р	S	ЌјЅ≈–≈∆Ќјя	S f inan loc sg
+40683	8	.	.	SENT									SENT	.	SENT
+40684															
+40685	1	”	”	PR			у						PR	”	PR
+40686	2	него	ќЌ	SPRO sg 3p m gen			о	г	е	н			SPRO	ќЌ	SPRO sg 3p m acc
+40687	3	спрашивают	—ѕ–јЎ»¬ј“№	V ipf praes pl indic - 3p			т	ю	а	в	и	ш	V	—ѕ–јЎ»¬ј“№	V ipf praes pl indic - 3p
+40688	4	:	:	PUNC									PUNC	:	PUNC
+40689	5	&	&	PUNC									PUNC	&	PUNC
+40690	6	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40691	7	";"	";"	SENT									SENT	";"	SENT
+40692															
+40693	1	—эр	—Ё–	S m anim nom sg			р	э	с				S	—Ё–	S m anim nom sg
+40694	2	,	,	PUNC									PUNC	,	PUNC
+40695	3	все	¬≈—№	SPRO - - nom pl			е	с	в				SPRO	¬—≈	S - - acc pl
+40696	4	в	¬	PR			в						PR	¬	PR
+40697	5	пор€дке	ѕќ–яƒќ 	S m inan loc sg			е	к	д	€	р	о	S	ѕќ–яƒќ 	S m inan loc sg
+40698	6	?	?	SENT									SENT	?	SENT
+40699															
+40700	1	¬ы	¬џ	SPRO pl 2p - nom			ы	в					SPRO	¬џ	SPRO pl 2p - nom
+40701	2	уверены	”¬≈–≈ЌЌџ…	A - - sg brev - -			ы	н	е	р	е	в	A	”¬≈–≈ЌЌџ…	A - - pl brev - -
+40702	3	?	?	SENT									SENT	?	SENT
+40703															
+40704	1	јаа	јјј	INTJ			а	а	а				INTJ	јјј	S m inan nonflex nonflex
+40705	2	,	,	PUNC									PUNC	,	PUNC
+40706	3	может	ћќ„№	V ipf praes sg indic - 3p			т	е	ж	о	м		V	ћќ„№	V ipf praes sg indic - 3p
+40707	4	,	,	PUNC									PUNC	,	PUNC
+40708	5	¬ам	¬џ	SPRO sg 2p - dat			м	а	в				SPRO	¬џ	SPRO pl 2p - dat
+40709	6	помочь	ѕќћќ„№	V inf indic			ь	ч	о	м	о	п	V	ѕќћќ„№	S f inan acc sg
+40710	7	?	?	PUNC									PUNC	?	PUNC
+40711	8	&	&	PUNC									PUNC	&	PUNC
+40712	9	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40713	10	";"	";"	SENT									SENT	";"	SENT
+40714															
+40715	1	≈му	ќЌ	SPRO sg 3p m dat			у	м	е				SPRO	ќЌ	SPRO sg 3p m dat
+40716	2	тоже	“ќ∆≈	PART			е	ж	о	т			PART	“ќ∆≈	PART
+40717	3	помогают	ѕќћќ√ј“№	V ipf praes pl indic - 3p			т	ю	а	г	о	м	V	ѕќћќ√ј“№	V ipf praes pl indic - 3p
+40718	4	подн€тьс€	ѕќƒЌя“№—я	V pf - - inf - -			€	с	ь	т	€	н	V	ѕќƒЌя“№—я	V pf - - inf - -
+40719	5	&	&	PUNC									PUNC	&	PUNC
+40720	6	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40721	7	";"	";"	SENT									SENT	";"	SENT
+40722															
+40723	1	∆ивот	∆»¬ќ“	S m inan nom sg			т	о	в	и	ж		S	∆»¬ќ“	S m inan nom sg
+40724	2	болит	ЅќЋ≈“№	V ipf praes sg indic - 3p			т	и	л	о	б		V	ЅќЋ≈“№	V ipf praes sg indic - 3p
+40725	3	?	?	PUNC									PUNC	?	PUNC
+40726	4	&	&	PUNC									PUNC	&	PUNC
+40727	5	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40728	6	";"	";"	SENT									SENT	";"	SENT
+40729															
+40730	1	-	-	PUNC									PUNC	-	PUNC
+40731	2	&	&	PUNC									PUNC	&	PUNC
+40732	3	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40733	4	";"	";"	SENT									SENT	";"	SENT
+40734															
+40735	1	ƒа	ƒј	PART			а	д					PART	ƒј	PART
+40736	2	,	,	PUNC									PUNC	,	PUNC
+40737	3	поможете	ѕќћќ„№	V pf fut pl indic - 2p			е	т	е	ж	о	м	V	ѕќћќ„№	V pf fut pl indic - 2p
+40738	4	?	?	PUNC									PUNC	?	PUNC
+40739	5	&	&	PUNC									PUNC	&	PUNC
+40740	6	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40741	7	";"	";"	SENT									SENT	";"	SENT
+40742															
+40743	1	-	-	PUNC									PUNC	-	PUNC
+40744	2	&	&	PUNC									PUNC	&	PUNC
+40745	3	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40746	4	";"	";"	SENT									SENT	";"	SENT
+40747															
+40748	1	ћы	ћџ	SPRO pl 1p - nom			ы	м					SPRO	ћџ	SPRO pl 1p - nom
+40749	2	подумали	ѕќƒ”ћј“№	V pf praet pl indic - -			и	л	а	м	у	д	V	ѕќƒ”ћј“№	V pf praet pl indic - -
+40750	3	,	,	PUNC									PUNC	,	PUNC
+40751	4	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ
+40752	5	теб€	“џ	SPRO sg 2p - acc			€	б	е	т			SPRO	“џ	SPRO sg 2p - acc
+40753	6	пристрелил	ѕ–»—“–≈Ћ»“№	V pf praet sg indic m -			л	и	л	е	р	т	V	ѕ–»—“–≈Ћ»“№	V pf praet sg indic m -
+40754	7	кто-то	 “ќ-“ќ	SPRO m - nom sg			о	т		о	т	к	SPRO	 “ќ-“ќ	S m - nom sg
+40755	8	пр€мо	ѕ–яћќ	ADV -			о	м	€	р	п		ADV	ѕ–яћќ	ADV -
+40756	9	здесь	«ƒ≈—№	ADV -			ь	с	е	д	з		ADV	«ƒ≈—№	ADV -
+40757	10	&	&	PUNC									PUNC	&	PUNC
+40758	11	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40759	12	";"	";"	SENT									SENT	";"	SENT
+40760															
+40761	1	ћожно	ћќ∆Ќќ	ADV -			о	н	ж	о	м		ADV	ћќ∆Ќќ	ADV -
+40762	2	сказать	— ј«ј“№	V pf - - inf - -			ь	т	а	з	а	к	V	— ј«ј“№	V pf - - inf - -
+40763	3	,	,	PUNC									PUNC	,	PUNC
+40764	4	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ
+40765	5	в	¬	PR			в						PR	¬	PR
+40766	6	–оссии	–ќ——»я	S f inan loc sg			и	и	с	с	о	р	S	–ќ——»я	S f inan loc sg
+40767	7	такого	“ј ќ…	A - gen sg plen m -			о	г	о	к	а	т	A	“ј ќ…	A - gen sg plen m -
+40768	8	не	Ќ≈	PART			е	н					PART	Ќ≈	PART
+40769	9	думают	ƒ”ћј“№	V ipf praes pl indic - 3p			т	ю	а	м	у	д	V	ƒ”ћј“№	V ipf praes pl indic - 3p
+40770	10	,	,	PUNC									PUNC	,	PUNC
+40771	11	потому что	потому что	CONJ			о	т	ч	 	у	м	CONJ	потому что	ZERO
+40772	12	в	¬	PR			в						PR	¬	PR
+40773	13	–оссии	–ќ——»я	S f inan loc sg			и	и	с	с	о	р	S	–ќ——»я	S f inan loc sg
+40774	14	все	¬—≈	SPRO - - nom pl			е	с	в				SPRO	¬—≈	S - - nom pl
+40775	15	безопасно	Ѕ≈«ќѕј—Ќќ	ADV -			о	н	с	а	п	о	ADV	Ѕ≈«ќѕј—Ќќ	ADV -
+40776	16	,	,	PUNC									PUNC	,	PUNC
+40777	17	а	ј	CONJ			а						CONJ	ј	CONJ
+40778	18	там	“јћ	ADV -			м	а	т				ADV	“јћ	ADV -
+40779	19	думают	ƒ”ћј“№	V ipf praes pl indic - 3p			т	ю	а	м	у	д	V	ƒ”ћј“№	V ipf praes pl indic - 3p
+40780	20	,	,	PUNC									PUNC	,	PUNC
+40781	21	значит	«Ќј„»“	PARENTH			т	и	ч	а	н	з	PARENTH	«Ќј„»“	ADV -
+40782	22	,	,	PUNC									PUNC	,	PUNC
+40783	23	там	“јћ	ADV -			м	а	т				ADV	“јћ	ADV -
+40784	24	хуже	ѕЋќ’ќ	ADV comp			е	ж	у	х			ADV	ѕЋќ’ќ	ADV comp
+40785	25	&	&	PUNC									PUNC	&	PUNC
+40786	26	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40787	27	";"	";"	SENT									SENT	";"	SENT
+40788															
+40789	1	ƒари€	ƒј–»я	S f anim nom sg persn			€	и	р	а	д		S	ƒј–»…	S m anim gen sg
+40790	2	@	@	PUNC									PUNC	@	PUNC
+40791	3	“ак	“ј 	ADV -			к	а	т				ADV	“ј 	ADV -
+40792	4	,	,	PUNC									PUNC	,	PUNC
+40793	5	к	 	PR			к						PR	 	PR
+40794	6	нему	ќЌ	SPRO sg 3p m dat			у	м	е	н			SPRO	ќЌ	SPRO sg 3p m dat
+40795	7	еще	≈ў≈	ADV -			е	щ	е				ADV	≈ў≈	ADV -
+40796	8	подходит	ѕќƒ’ќƒ»“№	V ipf praes sg indic - 3p			т	и	д	о	х	д	V	ѕќƒ’ќƒ»“№	V ipf praes sg indic - 3p
+40797	9	парень	ѕј–≈Ќ№	S m anim nom sg			ь	н	е	р	а	п	S	ѕј–≈Ќ№	S m anim nom sg
+40798	10	,	,	PUNC									PUNC	,	PUNC
+40799	11	очень	ќ„≈Ќ№	ADV -			ь	н	е	ч	о		ADV	ќ„≈Ќ№	ADV -
+40800	12	&	&	PUNC									PUNC	&	PUNC
+40801	13	lt	LT	NONLEX									NONLEX	LT	NONLEX
+40802	14	";"	";"	PUNC									PUNC	";"	PUNC
+40803	15	noindex	NOINDEX	NONLEX									NONLEX	NOINDEX	NONLEX
+40804	16	&	&	PUNC									PUNC	&	PUNC
+40805	17	gt	GT	NONLEX									NONLEX	GT	NONLEX
+40806	18	";"	";"	SENT									SENT	";"	SENT
+40807															
+40808	1	[	[	PUNC									PUNC	[	PUNC
+40809	2	нрзб	Ќ–«Ѕ	NONLEX			б	з	р	н			NONLEX	Ќ–«Ѕ	NONLEX
+40810	3	]	]	PUNC									PUNC	]	PUNC
+40811	4	&	&	PUNC									PUNC	&	PUNC
+40812	5	lt	LT	NONLEX									NONLEX	LT	NONLEX
+40813	6	";"	";"	SENT									SENT	";"	SENT
+40814															
+40815	1	/	/	PUNC									PUNC	/	PUNC
+40816	2	noindex	NOINDEX	NONLEX									NONLEX	NOINDEX	NONLEX
+40817	3	&	&	PUNC									PUNC	&	PUNC
+40818	4	gt	GT	NONLEX									NONLEX	GT	NONLEX
+40819	5	";"	";"	SENT									SENT	";"	SENT
+40820															
+40821	1	,	,	PUNC									PUNC	,	PUNC
+40822	2	вокруг	¬ќ –”√	PR			г	у	р	к	о	в	PR	¬ќ –”√	PR
+40823	3	него	ќЌ	SPRO sg 3p m acc			о	г	е	н			SPRO	ќЌ	SPRO sg 3p m acc
+40824	4	вообще	¬ќќЅў≈	ADV -			е	щ	б	о	о	в	ADV	¬ќќЅў≈	ADV -
+40825	5	така€	“ј ќ…	A - nom sg plen f -			€	а	к	а	т		A	“ј ќ…	A - nom sg plen f -
+40826	6	многодетна€	ћЌќ√ќƒ≈“Ќџ…	A - nom sg plen f -			€	а	н	т	е	д	A	ћЌќ√ќƒ≈“Ќџ…	A - nom sg plen f -
+40827	7	семь€	—≈ћ№я	S f inan nom sg			€	ь	м	е	с		S	—≈ћ№я	S f inan nom sg
+40828	8	собралась	—ќЅ–ј“№—я	V pf praet sg indic f -			ь	с	а	л	а	р	V	—ќЅ–ј“№—я	V pf praet sg indic f -
+40829	9	.	.	SENT									SENT	.	SENT
+40830															
+40831	1	ќни	ќЌ»	SPRO pl - - nom			и	н	о				SPRO	ќЌ»	SPRO pl - - nom
+40832	2	его	ќЌ	SPRO sg 3p m acc			о	г	е				SPRO	ќЌ	SPRO sg 3p m acc
+40833	3	т€нут	“яЌ”“№	V praet pl ipf indic 3p 			т	у	н	€	т		PARTCP	“яЌ”“№	PARTCP ipf praet - sg brev m pass -
+40834	4	как	 ј 	CONJ			к	а	к				CONJ	 ј 	CONJ
+40835	5	репку	–≈ѕ ј	S f inan acc sg			у	к	п	е	р		S	–≈ѕ ј	S f inan acc sg
+40836	6	из	»«	PR			з	и					PR	»«	PR
+40837	7	сказки	— ј« ј	S f inan gen sg			и	к	з	а	к	с	S	— ј« ј	S f inan gen sg
+40838	8	.	.	SENT									SENT	.	SENT
+40839															
+40840	1	&	&	PUNC									PUNC	&	PUNC
+40841	2	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40842	3	";"	";"	SENT									SENT	";"	SENT
+40843															
+40844	1	„то	„“ќ	SPRO n - nom sg			о	т	ч				SPRO	„“ќ	S n - nom sg
+40845	2	случилось	—Ћ”„»“№—я	V pf praet sg indic n -			ь	с	о	л	и	ч	V	—Ћ”„»“№—я	V pf praet sg indic n -
+40846	3	?	?	SENT									SENT	?	SENT
+40847															
+40848	1	„то	„“ќ	SPRO n - nom sg			о	т	ч				SPRO	„“ќ	S n - nom sg
+40849	2	случилось	—Ћ”„»“№—я	V pf praet sg indic n -			ь	с	о	л	и	ч	V	—Ћ”„»“№—я	V pf praet sg indic n -
+40850	3	?	?	PUNC									PUNC	?	PUNC
+40851	4	&	&	PUNC									PUNC	&	PUNC
+40852	5	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40853	6	";"	";"	SENT									SENT	";"	SENT
+40854															
+40855	1	-	-	PUNC									PUNC	-	PUNC
+40856	2	&	&	PUNC									PUNC	&	PUNC
+40857	3	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40858	4	";"	";"	SENT									SENT	";"	SENT
+40859															
+40860	1	¬се	¬≈—№	SPRO - - nom pl			е	с	в				SPRO	¬—≈	S - - acc pl
+40861	2	в	¬	PR			в						PR	¬	PR
+40862	3	пор€дке	ѕќ–яƒќ 	S m inan loc sg			е	к	д	€	р	о	S	ѕќ–яƒќ 	S m inan loc sg
+40863	4	.	.	SENT									SENT	.	SENT
+40864															
+40865	1	—пасибо	—ѕј—»Ѕќ	S 0 inan n			о	б	и	с	а	п	S	—ѕј—»Ѕќ	S n inan nonflex nonflex
+40866	2	огромное	ќ√–ќћЌџ…	A - nom sg plen n -			е	о	н	м	о	р	A	ќ√–ќћЌџ…	A - nom sg plen n -
+40867	3	&	&	PUNC									PUNC	&	PUNC
+40868	4	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40869	5	";"	";"	SENT									SENT	";"	SENT
+40870															
+40871	1	-	-	PUNC									PUNC	-	PUNC
+40872	2	&	&	PUNC									PUNC	&	PUNC
+40873	3	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40874	4	";"	";"	SENT									SENT	";"	SENT
+40875															
+40876	1	“ы	“џ	SPRO sg 2p - nom			ы	т					SPRO	“џ	SPRO sg 2p - nom
+40877	2	идти	»ƒ“»	V ipf - - inf - -			и	т	д	и			V	»ƒ“»	V ipf - - inf - -
+40878	3	можешь	ћќ„№	V ipf praes sg indic - 2p			ь	ш	е	ж	о	м	V	ћќ„№	V ipf praes sg indic - 2p
+40879	4	потихоньку	ѕќ“»’ќЌ№ ”	ADV -			у	к	ь	н	о	х	ADV	ѕќ“»’ќЌ№ ”	ADV -
+40880	5	?	?	PUNC									PUNC	?	PUNC
+40881	6	&	&	PUNC									PUNC	&	PUNC
+40882	7	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40883	8	";"	";"	SENT									SENT	";"	SENT
+40884															
+40885	1	-	-	PUNC									PUNC	-	PUNC
+40886	2	&	&	PUNC									PUNC	&	PUNC
+40887	3	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40888	4	";"	";"	SENT									SENT	";"	SENT
+40889															
+40890	1	јга	ј√ј	PART			а	г	а				PART	ј√ј	PART
+40891	2	,	,	PUNC									PUNC	,	PUNC
+40892	3	посижу	ѕќ—»ƒ≈“№	V pf fut sg indic - 1p			у	ж	и	с	о	п	V	ѕќ—»ƒ≈“№	V pf fut sg indic - 1p
+40893	4	здесь.	«ƒ≈—№.	ADV -				ь	с	е	д	з	ADV	«ƒ≈—№.	ADV -
+40894	5	&	&	PUNC									PUNC	&	PUNC
+40895	6	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40896	7	";"	";"	SENT									SENT	";"	SENT
+40897															
+40898	1	ƒари€	ƒј–»я	S f anim nom sg persn			€	и	р	а	д		S	ƒј–»…	S m anim gen sg
+40899	2	@	@	PUNC									PUNC	@	PUNC
+40900	3	јаа	јјј	INTJ			а	а	а				INTJ	јјј	S m inan nonflex nonflex
+40901	4	,	,	PUNC									PUNC	,	PUNC
+40902	5	вот	¬ќ“	ADV -			т	о	в				ADV	¬ќ“	ADV -
+40903	6	тут	“”“	ADV -			т	у	т				ADV	“”“	ADV -
+40904	7	,	,	PUNC									PUNC	,	PUNC
+40905	8	короче	 ќ–ќ„≈	PARENTH 			е	ч	о	р	о	к	PARENTH 	 ќ–ќ„≈	ADV comp
+40906	9	,	,	PUNC									PUNC	,	PUNC
+40907	10	очень	ќ„≈Ќ№	ADV -			ь	н	е	ч	о		ADV	ќ„≈Ќ№	ADV -
+40908	11	классно	 Ћј——Ќќ	ADV -			о	н	с	с	а	л	ADV	 Ћј——Ќќ	ADV -
+40909	12	.	.	SENT									SENT	.	SENT
+40910															
+40911	1	—ервис	—≈–¬»—	S m inan nom sg			с	и	в	р	е	с	S	—≈–¬»—	S m inan nom sg
+40912	2	по	ѕќ	PR			о	п					PR	ѕќ	PR
+40913	3	аренде...	ј–≈Ќƒј...	S m inan dat sg	раздельно					е	д	н	S	ј–≈Ќƒј...	S m inan gen sg
+40914	4	по	ѕќ	PR			о	п					PR	ѕќ	PR
+40915	5	аренде...	ј–≈Ќƒј...	S m inan dat sg	раздельно					е	д	н	S	ј–≈Ќƒј...	S m inan gen sg
+40916	6	велосипедов	¬≈Ћќ—»ѕ≈ƒ	S m inan gen pl			в	о	д	е	п	е	S	¬≈Ћќѕ»—≈ѕ≈ƒ	S m inan gen pl
+40917	7	,	,	PUNC									PUNC	,	PUNC
+40918	8	он	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom
+40919	9	пообещал	ѕќќЅ≈ўј“№	V pf praet sg indic m -			л	а	щ	е	б	о	V	ѕќќЅ≈ўј“№	V pf praet sg indic m -
+40920	10	ему...	ќЌ...	SPRO sg 3p m dat	раздельно					у	м	е	SPRO	ќЌ...	SPRO sg 3p m dat
+40921	11	ммм...	ћћћ...	INTJ	раздельно					м	м	м	INTJ	ћћћ...	S n inan loc sg
+40922	12	помочь	ѕќћќ„№	V inf ipf			ь	ч	о	м	о	п	V inf ipf	ѕќћќ„№	S f inan acc sg
+40923	13	добратьс€	ƒќЅ–ј“№—я	V pf - - inf - -			€	с	ь	т	а	р	V	ƒќЅ–ј“№—я	V pf - - inf - -
+40924	14	до	ƒќ	PR			о	д					PR	ƒќ	PR
+40925	15	куда-то	 ”ƒј-“ќ	ADV -			о	т		а	д	у	ADV	 ”ƒј-“ќ	ADV -
+40926	16	,	,	PUNC									PUNC	,	PUNC
+40927	17	если	≈—Ћ»	CONJ			и	л	с	е			CONJ	≈—Ћ»	CONJ
+40928	18	ему	ќЌ	SPRO sg 3p m dat			у	м	е				SPRO	ќЌ	SPRO sg 3p m dat
+40929	19	станет	—“ј“№	V pf fut sg indic - 3p			т	е	н	а	т	с	V	—“ј“№	V pf fut sg indic - 3p
+40930	20	плохо	ѕЋќ’ќ	ADV -			о	х	о	л	п		ADV	ѕЋќ’ќ	ADV -
+40931	21	.	.	SENT									SENT	.	SENT
+40932															
+40933	1	ƒари€	ƒј–»я	S f anim nom sg persn			€	и	р	а	д		S	ƒј–»…	S m anim gen sg
+40934	2	@	@	PUNC									PUNC	@	PUNC
+40935	3	ћмм	ћћћ	INTJ			м	м	м				INTJ	ћћћ	S n inan loc sg
+40936	4	,	,	PUNC									PUNC	,	PUNC
+40937	5	&	&	PUNC									PUNC	&	PUNC
+40938	6	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40939	7	";"	";"	SENT									SENT	";"	SENT
+40940															
+40941	1	“ы	“џ	SPRO sg 2p - nom			ы	т					SPRO	“џ	SPRO sg 2p - nom
+40942	2	бухал	Ѕ”’ј“№	V ipf praet sg indic m -			л	а	х	у	б		V	Ѕ”’ј“№	V ipf praet sg indic m -
+40943	3	?	?	PUNC									PUNC	?	PUNC
+40944	4	&	&	PUNC									PUNC	&	PUNC
+40945	5	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40946	6	";"	";"	SENT									SENT	";"	SENT
+40947															
+40948	1	-	-	PUNC									PUNC	-	PUNC
+40949	2	&	&	PUNC									PUNC	&	PUNC
+40950	3	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40951	4	";"	";"	SENT									SENT	";"	SENT
+40952															
+40953	1	Ќет	Ќ≈“	PART			т	е	н				PART	Ќ≈“	PART
+40954	2	&	&	PUNC									PUNC	&	PUNC
+40955	3	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40956	4	";"	";"	SENT									SENT	";"	SENT
+40957															
+40958	1	-	-	PUNC									PUNC	-	PUNC
+40959	2	&	&	PUNC									PUNC	&	PUNC
+40960	3	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40961	4	";"	";"	SENT									SENT	";"	SENT
+40962															
+40963	1	ƒалеко	ƒјЋ≈ ќ	ADV -			о	к	е	л	а	д	ADV	ƒјЋ≈ ќ	ADV -
+40964	2	живешь	∆»“№	V ipf praes sg indic - 2p			ь	ш	е	в	и	ж	V	∆»“№	V ipf praes sg indic - 2p
+40965	3	?	?	PUNC									PUNC	?	PUNC
+40966	4	&	&	PUNC									PUNC	&	PUNC
+40967	5	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40968	6	";"	";"	SENT									SENT	";"	SENT
+40969															
+40970	1	јаа	јјј	INTJ			а	а	а				INTJ	јјј	S m inan nonflex nonflex
+40971	2	,	,	PUNC									PUNC	,	PUNC
+40972	3	женщина	∆≈Ќў»Ќј	S f anim nom sg			а	н	и	щ	н	е	S	∆≈Ќў»Ќј	S f anim nom sg
+40973	4	его	ќЌ	SPRO sg 3p m acc			о	г	е				SPRO	ќЌ	SPRO sg 3p m acc
+40974	5	спрашивает	—ѕ–јЎ»¬ј“№	V ipf praes sg indic - 3p			т	е	а	в	и	ш	V	—ѕ–јЎ»¬ј“№	V ipf praes sg indic - 3p
+40975	6	съел	—Џ≈—“№	V pf praet sg indic m -			л	е	ъ	с			V	—Џ≈—“№	V pf praet sg indic m -
+40976	7	ли	Ћ»	PART			и	л					PART	Ћ»	CONJ
+40977	8	он	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom
+40978	9	что-то	„“ќ-“ќ	SPRO n - acc sg			о	т		о	т	ч	SPRO	„“ќ-“ќ	S n - acc sg
+40979	10	плохое	ѕЋќ’ќ…	A - acc sg plen m -			е	о	х	о	п		A	ѕќ’ќ…	A - gen sg plen m -
+40980	11	,	,	PUNC									PUNC	,	PUNC
+40981	12	видимо	¬»ƒ»ћќ	PARENTH 			о	м	и	д	и	в	PARENTH 	¬»ƒ»ћќ	ADV -
+40982	13	,	,	PUNC									PUNC	,	PUNC
+40983	14	после	ѕќ—Ћ≈	PR			е	л	с	о	п		PR	ѕќ—Ћ≈	PR
+40984	15	того	“ќ	S n - gen sg			о	г	о	т			S	“ќ	S n - gen sg
+40985	16	,	,	PUNC									PUNC	,	PUNC
+40986	17	как	 ј 	CONJ			к	а	к				CONJ	 ј 	CONJ
+40987	18	он	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom
+40988	19	ответил	ќ“¬≈“»“№	V pf praet sg indic m -			л	и	т	е	в	т	V	ќ“¬≈“»“№	V pf praet sg indic m -
+40989	20	,	,	PUNC									PUNC	,	PUNC
+40990	21	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ
+40991	22	не	Ќ≈	PART			е	н					PART	Ќ≈	PART
+40992	23	бухал	Ѕ”’ј“№	V ipf praet sg indic m -			л	а	х	у	б		V	Ѕ”’ј“№	V ipf praet sg indic m -
+40993	24	.	.	SENT									SENT	.	SENT
+40994															
+40995	1	ƒари€	ƒј–»я	S f anim nom sg persn			€	и	р	а	д		S	ƒј–»…	S m anim gen sg
+40996	2	@	@	PUNC									PUNC	@	PUNC
+40997	3	&	&	PUNC									PUNC	&	PUNC
+40998	4	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+40999	5	";"	";"	SENT									SENT	";"	SENT
+41000															
+41001	1	“ы	“џ	SPRO sg 2p - nom			ы	т					SPRO	“џ	SPRO sg 2p - nom
+41002	2	в	¬	PR			в						PR	¬	PR
+41003	3	пор€дке	ѕќ–яƒќ 	S m inan loc sg			е	к	д	€	р	о	S	ѕќ–яƒќ 	S m inan loc sg
+41004	4	,	,	PUNC									PUNC	,	PUNC
+41005	5	брат	Ѕ–ј“	S m anim nom sg			т	а	р	б			S	Ѕ–ј“	S m anim nom sg
+41006	6	?	?	PUNC									PUNC	?	PUNC
+41007	7	&	&	PUNC									PUNC	&	PUNC
+41008	8	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+41009	9	";"	";"	SENT									SENT	";"	SENT
+41010															
+41011	1	-	-	PUNC									PUNC	-	PUNC
+41012	2	&	&	PUNC									PUNC	&	PUNC
+41013	3	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+41014	4	";"	";"	SENT									SENT	";"	SENT
+41015															
+41016	1	¬се	¬≈—№	SPRO - - nom pl			е	с	в				SPRO	¬—≈	S - - nom pl
+41017	2	окей	ќ ≈…	PART			й	е	к	о			PART	ќ ≈…	S m anim nom sg
+41018	3	,	,	PUNC									PUNC	,	PUNC
+41019	4	все	¬≈—№	SPRO - - nom pl			е	с	в				SPRO	¬—≈	S - - nom pl
+41020	5	хорошо	’ќ–ќЎќ	ADV -			о	ш	о	р	о	х	ADV	’ќ–ќЎќ	ADV -
+41021	6	&	&	PUNC									PUNC	&	PUNC
+41022	7	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+41023	8	";"	";"	SENT									SENT	";"	SENT
+41024															
+41025	1	Ќу	Ќ”	PART			у	н					PART	Ќ”	PART
+41026	2	,	,	PUNC									PUNC	,	PUNC
+41027	3	в	¬	PR			в						PR	¬	PR
+41028	4	общем	ќЅў»…	A - loc sg plen m -			м	е	щ	б	о		A	ќЅў»…	A - loc sg plen m -
+41029	5	,	,	PUNC									PUNC	,	PUNC
+41030	6	мы	ћџ	SPRO pl 1p - nom			ы	м					SPRO	ћџ	SPRO pl 1p - nom
+41031	7	видим	¬»ƒ≈“№	V ipf praes pl indic - 1p			м	и	д	и	в		V	¬»ƒ≈“№	V ipf praes pl indic - 1p
+41032	8	,	,	PUNC									PUNC	,	PUNC
+41033	9	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ
+41034	10	достаточно	ƒќ—“ј“ќ„Ќќ	ADV -			о	н	ч	о	т	а	ADV	ƒќ—“ј“ќ„Ќќ	ADV -
+41035	11	мгновенна€	ћ√Ќќ¬≈ЌЌџ…	A - nom sg plen f -			€	а	н	н	е	в	A	ћ√Ќќ¬≈ЌЌџ…	A - nom sg plen f -
+41036	12	реакци€	–≈ј ÷»я	S f inan nom sg			€	и	ц	к	а	е	S	–≈ј ÷»я	S f inan nom sg
+41037	13	у	”	PR			у						PR	”	PR
+41038	14	большинства	ЅќЋ№Ў»Ќ—“¬ќ	S n inan gen sg			а	в	т	с	н	и	S	ЅќЋ№Ў»Ќ—“¬ќ	S n inan gen sg
+41039	15	людей	„≈Ћќ¬≈ 	S m anim gen pl			й	е	д	ю	л		S	„≈Ћќ¬≈ 	S m anim gen pl
+41040	16	.	.	SENT									SENT	.	SENT
+41041															
+41042	1	¬от	¬ќ“	PART			т	о	в				PART	¬ќ“	PART
+41043	2	тут	“”“	ADV -			т	у	т				ADV	“”“	ADV -
+41044	3	ему	ќЌ	SPRO sg 3p m dat			у	м	е				SPRO	ќЌ	SPRO sg 3p m dat
+41045	4	по	ѕќ	PR			о	п					PR	ѕќ	PR
+41046	5	плечу	ѕЋ≈„ќ	S n inan dat sg			у	ч	е	л	п		S	ѕЋ≈„ќ	S n inan dat sg
+41047	6	похлопали	ѕќ’Ћќѕј“№	V pf praet pl indic - -			и	л	а	п	о	л	V	ѕќ’Ћќѕј“№	V pf praet pl indic - -
+41048	7	.	.	SENT									SENT	.	SENT
+41049															
+41050	1	 лассно	 Ћј——Ќќ	ADV -			о	н	с	с	а	л	ADV	 Ћј——Ќќ	ADV -
+41051	2	!	!	SENT									SENT	!	SENT
+41052															
+41053	1	Ёээ	ЁЁЁ	INTJ			э	э	э				INTJ	ЁЁЁ	NONLEX
+41054	2	,	,	PUNC									PUNC	,	PUNC
+41055	3	вообще	¬ќќЅў≈	ADV -			е	щ	б	о	о	в	ADV	¬ќќЅў≈	ADV -
+41056	4	при€тно	ѕ–»я“Ќќ	ADV -			о	н	т	€	и	р	ADV	ѕ–»я“Ќќ	ADV -
+41057	5	смотреть	—ћќ“–≈“№	V ipf - - inf - -			ь	т	е	р	т	о	V	—ћќ“–≈“№	V ipf - - inf - -
+41058	6	на	Ќј	PR			а	н					PR	Ќј	PR
+41059	7	такую	“ј ќ…	A - acc sg plen f -			ю	у	к	а	т		A	“ј ќ…	A - acc sg plen f -
+41060	8	отзывчивость	ќ“«џ¬„»¬ќ—“№	S f inan acc sg			ь	т	с	о	в	и	S	ќ“«џ¬„»¬ќ—“№	S f inan acc sg
+41061	9	со стороны	со стороны	ZERO	раздельно		ы	н	о	р	о	т	ZERO	со стороны	ZERO
+41062	10	людей	„≈Ћќ¬≈ 	S m anim gen pl			й	е	д	ю	л		S	„≈Ћќ¬≈ 	S m anim gen pl
+41063	11	.	.	SENT									SENT	.	SENT
+41064															
+41065	1	ƒари€	ƒј–»я	S f anim nom sg persn			€	и	р	а	д		S	ƒј–»…	S m anim gen sg
+41066	2	@	@	PUNC									PUNC	@	PUNC
+41067	3	ј	ј	INTJ			а						INTJ	ј	CONJ
+41068	4	,	,	PUNC									PUNC	,	PUNC
+41069	5	вот	¬ќ“	PART			т	о	в				PART	¬ќ“	PART
+41070	6	он	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom
+41071	7	рассказывает	–ј—— ј«џ¬ј“№	V ipf praes sg indic - 3p			т	е	а	в	ы	з	V	–ј—— ј«џ¬ј“№	V ipf praes sg indic - 3p
+41072	8	,	,	PUNC									PUNC	,	PUNC
+41073	9	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ
+41074	10	это	Ё“ќ	SPRO n - nom sg			о	т	э				SPRO	Ё“ќ	S n - nom sg
+41075	11	социальный	—ќ÷»јЋ№Ќџ…	A - nom sg plen m -			й	ы	н	ь	л	а	A	—ќ÷»јЋ№Ќџ…	A - nom sg plen m -
+41076	12	эксперимент...	Ё —ѕ≈–»ћ≈Ќ“...	S m anim dat sg	раздельно					т	н	е	S	Ё —ѕ≈–»ћ≈Ќ“...	S m anim dat sg
+41077	13	и	»	CONJ			и						CONJ	»	CONJ
+41078	14	показывает	ѕќ ј«џ¬ј“№	V ipf praes sg indic - 3p			т	е	а	в	ы	з	V	ѕќ ј«џ¬ј“№	V ipf praes sg indic - 3p
+41079	15	на	Ќј	PR			а	н					PR	Ќј	PR
+41080	16	камеру	 јћ≈–ј	S f inan acc sg			у	р	е	м	а	к	S	 јћ≈–ј	S f inan acc sg
+41081	17	.	.	SENT									SENT	.	SENT
+41082															
+41083	1	Ќу	Ќ”	PART			у	н					PART	Ќ”	PART
+41084	2	,	,	PUNC									PUNC	,	PUNC
+41085	3	они	ќЌ»	SPRO pl - - nom			и	н	о				SPRO	ќЌ»	SPRO pl - - nom
+41086	4	радуютс€	–јƒќ¬ј“№—я	V ipf praes pl indic - 3p			€	с	т	ю	у	д	V	–јƒќ¬ј“№—я	V ipf praes pl indic - 3p
+41087	5	.	.	SENT									SENT	.	SENT
+41088															
+41089	1	√овор€	√ќ¬ќ–»“№	V ipf praes - ger - -			€	р	о	в	о	г	V	√ќ¬ќ–»“№	V ipf praes - ger - -
+41090	2	:	:	PUNC									PUNC	:	PUNC
+41091	3	&	&	PUNC									PUNC	&	PUNC
+41092	4	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+41093	5	";"	";"	SENT									SENT	";"	SENT
+41094															
+41095	1	¬оу	¬ќ”	INTJ			у	о	в				INTJ	¬ќ”	S n inan nonflex nonflex
+41096	2	,	,	PUNC									PUNC	,	PUNC
+41097	3	чувак	„”¬ј 	S m anim nom sg			к	а	в	у	ч		S	„”¬ј 	S m anim nom sg
+41098	4	,	,	PUNC									PUNC	,	PUNC
+41099	5	это	Ё“ќ	SPRO n - nom sg			о	т	э				SPRO	Ё“ќ	S n - nom sg
+41100	6	круто	 –”“ќ…	A - - sg brev n -			о	т	у	р	к		A	 –”“ќ…	A - - sg brev n -
+41101	7	&	&	PUNC									PUNC	&	PUNC
+41102	8	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+41103	9	";"	";"	SENT									SENT	";"	SENT
+41104															
+41105	1	,	,	PUNC									PUNC	,	PUNC
+41106	2	а	ј	CONJ			а						CONJ	ј	CONJ
+41107	3	не	Ќ≈	PART			е	н					PART	Ќ≈	PART
+41108	4	&	&	PUNC									PUNC	&	PUNC
+41109	5	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+41110	6	";"	";"	SENT									SENT	";"	SENT
+41111															
+41112	1	 акого	 ј ќ…	A - gen sg plen m -			о	г	о	к	а	к	A	 ј ќ…	A - gen sg plen m -
+41113	2	черта	„≈–“	S m anim gen sg			а	т	р	е	ч		S	„≈–“	S m anim gen sg
+41114	3	!	!	SENT									SENT	!	SENT
+41115															
+41116	1	ћы	ћџ	SPRO pl 1p - nom			ы	м					SPRO	ћџ	SPRO pl 1p - nom
+41117	2	думали	ƒ”ћј“№	V ipf praet pl indic - -			и	л	а	м	у	д	V	ƒ”ћј“№	V ipf praet pl indic - -
+41118	3	,	,	PUNC									PUNC	,	PUNC
+41119	4	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ
+41120	5	тебе	“џ	SPRO sg 2p - dat			е	б	е	т			SPRO	“џ	SPRO sg 2p - loc
+41121	6	плохо	ѕЋќ’ќ	ADV -			о	х	о	л	п		ADV	ѕЋќ’ќ	ADV -
+41122	7	!	!	SENT									SENT	!	SENT
+41123															
+41124	1	«ачем	«ј„≈ћ	ADV -			м	е	ч	а	з		ADV	«ј„≈ћ	ADV -
+41125	2	ты	“џ	SPRO sg 2p - nom			ы	т					SPRO	“џ	SPRO sg 2p - nom
+41126	3	нас	ћџ	SPRO pl 1p - acc			с	а	н				SPRO	ћџ	SPRO pl 1p - loc
+41127	4	обманул	ќЅћјЌ”“№	V pf praet sg indic m -			л	у	н	а	м	б	V	ќЅћјЌ”“№	V pf praet sg indic m -
+41128	5	?!	?!	PUNC									PUNC	?!	PUNC
+41129	6	&	&	PUNC									PUNC	&	PUNC
+41130	7	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+41131	8	";"	";"	SENT									SENT	";"	SENT
+41132															
+41133	1	ƒари€	ƒј–»я	S f anim nom sg persn			€	и	р	а	д		S	ƒј–»…	S m anim gen sg
+41134	2	@	@	PUNC									PUNC	@	PUNC
+41135	3	ј	ј	INTJ			а						INTJ	ј	CONJ
+41136	4	,	,	PUNC									PUNC	,	PUNC
+41137	5	вот	¬ќ“	PART			т	о	в				PART	¬ќ“	PART
+41138	6	тут	“”“	ADV -			т	у	т				ADV	“”“	ADV -
+41139	7	что-то	„“ќ-“ќ	SPRO n - nom sg			о	т		о	т	ч	SPRO	„“ќ-“ќ	S n - nom sg
+41140	8	говорит	√ќ¬ќ–»“№	V ipf praes sg indic - 3p			т	и	р	о	в	о	V	√ќ¬ќ–»“№	V ipf praes sg indic - 3p
+41141	9	человек	„≈Ћќ¬≈ 	S m anim nom sg			к	е	в	о	л	е	S	„≈Ћќ¬≈ 	S m anim nom sg
+41142	10	под	ѕќƒ	PR			д	о	п				PR	ѕќƒ	PR
+41143	11	флажком	‘Ћј∆ќ 	S m inan ins sg			м	о	к	ж	а	л	S	‘Ћј∆ќ 	S m inan ins sg
+41144	12	–оссии	–ќ——»я	S f inan gen sg			и	и	с	с	о	р	S	–ќ——»я	S f inan gen sg
+41145	13	.	.	SENT									SENT	.	SENT
+41146															
+41147	1	ѕоскольку	ѕќ— ќЋ№ ”	CONJ			у	к	ь	л	о	к	CONJ	ѕќ— ќЋ№ ”	CONJ
+41148	2	у	”	PR			у						PR	”	PR
+41149	3	мен€	я	SPRO sg 1p - gen			€	н	е	м			SPRO	я	SPRO sg 1p - acc
+41150	4	нет	Ќ≈“	PART			т	е	н				PART	Ќ≈“	PART
+41151	5	звука	«¬” 	S m inan gen sg			а	к	у	в	з		S	«¬” 	S m inan gen sg
+41152	6	,	,	PUNC									PUNC	,	PUNC
+41153	7	€	я	SPRO sg 1p - nom			€						SPRO	я	SPRO sg 1p - nom
+41154	8	не	Ќ≈	PART			е	н					PART	Ќ≈	PART
+41155	9	знаю	«Ќј“№	V ipf praes sg indic - 1p			ю	а	н	з			V	«Ќј“№	V ipf praes sg indic - 1p
+41156	10	,	,	PUNC									PUNC	,	PUNC
+41157	11	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ
+41158	12	он	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom
+41159	13	говорит	√ќ¬ќ–»“№	V ipf praes sg indic - 3p			т	и	р	о	в	о	V	√ќ¬ќ–»“№	V ipf praes sg indic - 3p
+41160	14	,	,	PUNC									PUNC	,	PUNC
+41161	15	но	Ќќ	CONJ			о	н					CONJ	Ќќ	CONJ
+41162	16	лицо	Ћ»÷ќ	S n inan nom sg			о	ц	и	л			S	Ћ»÷ќ	S n inan nom sg
+41163	17	у	”	PR			у						PR	”	PR
+41164	18	него	ќЌ	SPRO sg 3p m gen			о	г	е	н			SPRO	ќЌ	SPRO sg 3p m acc
+41165	19	недовольное	Ќ≈ƒќ¬ќЋ№Ќџ…	A - nom sg plen n -			е	о	н	ь	л	о	A	Ќ≈ƒќ¬ќЋ№Ќџ…	A - nom sg plen n -
+41166	20	.	.	SENT									SENT	.	SENT
+41167															
+41168	1	ƒари€	ƒј–»я	S f anim nom sg persn			€	и	р	а	д		S	ƒј–»…	S m anim gen sg
+41169	2	@	@	PUNC									PUNC	@	PUNC
+41170	3	ћмм	ћћћ	INTJ			м	м	м				INTJ	ћћћ	S n inan loc sg
+41171	4	,	,	PUNC									PUNC	,	PUNC
+41172	5	10	10	NUM - - -									NUM	10	NUM - - -
+41173	6	процентов	ѕ–ќ÷≈Ќ“	S m inan gen pl			в	о	т	н	е	ц	S	ѕ–ќ÷≈Ќ“	S m inan gen pl
+41174	7	.	.	SENT									SENT	.	SENT
+41175															
+41176	1	„то-то	„“ќ-“ќ	SPRO n - nom sg			о	т		о	т	ч	SPRO	„“ќ-“ќ	S n - nom sg
+41177	2	продолжает	ѕ–ќƒќЋ∆ј“№	V ipf praes sg indic - 3p			т	е	а	ж	л	о	V	ѕ–ќƒќЋ∆ј“№	V ipf praes sg indic - 3p
+41178	3	говорить	√ќ¬ќ–»“№	V ipf - - inf - -			ь	т	и	р	о	в	V	√ќ¬ќ–»“№	V ipf - - inf - -
+41179	4	,	,	PUNC									PUNC	,	PUNC
+41180	5	€	я	SPRO sg 1p - nom			€						SPRO	я	SPRO sg 1p - nom
+41181	6	не	Ќ≈	PART			е	н					PART	Ќ≈	PART
+41182	7	знаю	«Ќј“№	V ipf praes sg indic - 1p			ю	а	н	з			V	«Ќј“№	V ipf praes sg indic - 1p
+41183	8	что	„“ќ	S n - acc sg			о	т	ч				S	„“ќ	S n - acc sg
+41184	9	.	.	SENT									SENT	.	SENT
+41185															
+41186	1	¬озможно	¬ќ«ћќ∆Ќќ	PRAEDIC			о	н	ж	о	м	з	PRAEDIC	¬ќ«ћќ∆Ќќ	ADV -
+41187	2	,	,	PUNC									PUNC	,	PUNC
+41188	3	10	10	NUM - - -									NUM	10	NUM - - -
+41189	4	процентов	ѕ–ќ÷≈Ќ“	S m inan gen pl			в	о	т	н	е	ц	S	ѕ–ќ÷≈Ќ“	S m inan gen pl
+41190	5	только...	“ќЋ№ ќ...	PART	раздельно					о	к	ь	PART	“ќЋ№ ќ...	PART
+41191	6	помогает	ѕќћќ√ј“№	V ipf praes sg indic - 3p			т	е	а	г	о	м	V	ѕќћќ√ј“№	V ipf praes sg indic - 3p
+41192	7	.	.	SENT									SENT	.	SENT
+41193															
+41194	1	ƒари€	ƒј–»я	S f anim nom sg persn			€	и	р	а	д		S	ƒј–»…	S m anim gen sg
+41195	2	@	@	PUNC									PUNC	@	PUNC
+41196	3	“ак	“ј 	ADV -			к	а	т				ADV	“ј 	ADV -
+41197	4	,	,	PUNC									PUNC	,	PUNC
+41198	5	теперь	“≈ѕ≈–№	ADV -			ь	р	е	п	е	т	ADV	“≈ѕ≈–№	ADV -
+41199	6	что-то	„“ќ-“ќ	SPRO n - acc sg			о	т		о	т	ч	SPRO	„“ќ-“ќ	S n - acc sg
+41200	7	говор€т	√ќ¬ќ–»“№	V ipf praes pl indic - 3p			т	€	р	о	в	о	V	√ќ¬ќ–»“№	V ipf praes pl indic - 3p
+41201	8	про	ѕ–ќ	PR			о	р	п				PR	ѕ–ќ	PR
+41202	9	јмерику	јћ≈–» ј	S f inan acc sg			у	к	и	р	е	м	S	јћ≈–» ј	S f inan acc sg
+41203	10	.	.	SENT									SENT	.	SENT
+41204															
+41205	1	я	я	SPRO sg 1p - nom			€						SPRO	я	SPRO sg 1p - nom
+41206	2	жду	∆ƒј“№	V ipf praes sg indic - 1p			у	д	ж				V	∆ƒј“№	V ipf praes sg indic - 1p
+41207	3	числового	„»—Ћќ¬ќ…	A - gen sg plen n -			о	г	о	в	о	л	A	„»—Ћќ¬ќ…	A - gen sg plen n -
+41208	4	обозначени€	ќЅќ«Ќј„≈Ќ»≈	S n inan gen sg			€	и	н	е	ч	а	S	ќЅќ«Ќј„≈Ќ»≈	S n inan gen sg
+41209	5	из-за	»«-«ј	PR			а	з		з	и		PR	»«-«ј	PR
+41210	6	отсутстви€	ќ“—”“—“¬»≈	S n inan gen sg			€	и	в	т	с	т	S	ќ“—”“—“¬»≈	S n inan gen sg
+41211	7	звука	«¬” 	S m inan gen sg			а	к	у	в	з		S	«¬” 	S m inan gen sg
+41212	8	.	.	SENT									SENT	.	SENT
+41213															
+41214	1	ћмм	ћћћ	INTJ			м	м	м				INTJ	ћћћ	S n inan loc sg
+41215	2	,	,	PUNC									PUNC	,	PUNC
+41216	3	оно	ќЌќ	SPRO sg 3p n nom			о	н	о				SPRO	ќЌќ	SPRO sg 3p n nom
+41217	4	не	Ќ≈	PART			е	н					PART	Ќ≈	PART
+41218	5	поступает	ѕќ—“”ѕј“№	V ipf praes sg indic - 3p			т	е	а	п	у	т	V	ѕќ—“”ѕј“№	V ipf praes sg indic - 3p
+41219	6	.	.	SENT									SENT	.	SENT
+41220															
+41221	1	Ќу	Ќ”	PART			у	н					PART	Ќ”	PART
+41222	2	,	,	PUNC									PUNC	,	PUNC
+41223	3	короче	 ќ–ќ„≈	PARENTH 			е	ч	о	р	о	к	PARENTH 	 ќ–ќ„≈	ADV comp
+41224	4	,	,	PUNC									PUNC	,	PUNC
+41225	5	они	ќЌ»	SPRO pl - - nom			и	н	о				SPRO	ќЌ»	SPRO pl - - nom
+41226	6	&	&	PUNC									PUNC	&	PUNC
+41227	7	lt	LT	NONLEX									NONLEX	LT	NONLEX
+41228	8	";"	";"	PUNC									PUNC	";"	PUNC
+41229	9	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+41230	10	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+41231	11	=	=	PUNC									PUNC	=	PUNC
+41232	12	&	&	PUNC									PUNC	&	PUNC
+41233	13	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+41234	14	";"	";"	PUNC									PUNC	";"	PUNC
+41235	15	чЄто	„≈√ќ-“ќ	SPRO gen sg distort			о	т	Є	ч			SPRO	„≈“ќ	S n inan nonflex nonflex
+41236	16	&	&	PUNC									PUNC	&	PUNC
+41237	17	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+41238	18	";"	";"	SENT									SENT	";"	SENT
+41239															
+41240	1	&	&	PUNC									PUNC	&	PUNC
+41241	2	gt	GT	NONLEX									NONLEX	GT	NONLEX
+41242	3	";"	";"	PUNC									PUNC	";"	PUNC
+41243	4	что-то	„“ќ-“ќ	S n inan nom sg			о	т		о	т	ч	S	„“ќ-“ќ	S n inan nom sg
+41244	5	&	&	PUNC									PUNC	&	PUNC
+41245	6	lt	LT	NONLEX									NONLEX	LT	NONLEX
+41246	7	";"	";"	SENT									SENT	";"	SENT
+41247															
+41248	1	/	/	PUNC									PUNC	/	PUNC
+41249	2	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+41250	3	&	&	PUNC									PUNC	&	PUNC
+41251	4	gt	GT	NONLEX									NONLEX	GT	NONLEX
+41252	5	";"	";"	SENT									SENT	";"	SENT
+41253															
+41254	1	там	“јћ	ADV -			м	а	т				ADV	“јћ	ADV -
+41255	2	говор€т	√ќ¬ќ–»“№	V ipf praes pl indic - 3p			т	€	р	о	в	о	V	√ќ¬ќ–»“№	V ipf praes pl indic - 3p
+41256	3	про	ѕ–ќ	PR			о	р	п				PR	ѕ–ќ	PR
+41257	4	јмерику	јћ≈–» ј	S f inan acc sg			у	к	и	р	е	м	S	јћ≈–» ј	S f inan acc sg
+41258	5	.	.	SENT									SENT	.	SENT
+41259															
+41260	1	я	я	SPRO sg 1p - nom			€						SPRO	я	SPRO sg 1p - nom
+41261	2	не	Ќ≈	PART			е	н					PART	Ќ≈	PART
+41262	3	знаю	«Ќј“№	V ipf praes sg indic - 1p			ю	а	н	з			V	«Ќј“№	V ipf praes sg indic - 1p
+41263	4	,	,	PUNC									PUNC	,	PUNC
+41264	5	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ
+41265	6	они	ќЌ»	SPRO pl 3p- - nom			и	н	о				SPRO	ќЌ»	SPRO pl - - nom
+41266	7	говор€т	√ќ¬ќ–»“№	V ipf praes pl indic - 3p			т	€	р	о	в	о	V	√ќ¬ќ–»“№	V ipf praes pl indic - 3p
+41267	8	.	.	SENT									SENT	.	SENT
+41268															
+41269	1	»ии...	»»»...	CONJ	раздельно					и	и	и	CONJ	»»»...	S m anim dat sg
+41270	2	видимо	¬»ƒ»ћќ	PARENTH -			о	м	и	д	и	в	PARENTH 	¬»ƒ»ћќ	ADV -
+41271	3	,	,	PUNC									PUNC	,	PUNC
+41272	4	это	Ё“ќ	SPRO n - nom sg			о	т	э				SPRO	Ё“ќ	S n - nom sg
+41273	5	результат	–≈«”Ћ№“ј“	S m inan nom sg			т	а	т	ь	л	у	S	–≈«”Ћ№“ј“	S m inan nom sg
+41274	6	социального	—ќ÷»јЋ№Ќџ…	A - gen sg plen m -			о	г	о	н	ь	л	A	—ќ÷»јЋ№Ќџ…	A - gen sg plen m -
+41275	7	эксперимента	Ё —ѕ≈–»ћ≈Ќ“	S m inan gen sg			а	т	н	е	м	и	S	Ё —ѕ≈–»ћ≈Ќ“	S m inan gen sg
+41276	8	.	.	SENT									SENT	.	SENT
+41277															
+41278	1	»	»	CONJ			и						CONJ	»	CONJ
+41279	2	все	¬—≈	S - - nom pl			е	с	в				S	¬—≈	S - - nom pl
+41280	3	закачиваетс€	«ј ј„»¬ј“№—я	V ipf praes sg indic - 3p			€	с	т	е	а	в	V	«ј ј„»¬ј“№—я	V ipf praes sg indic - 3p
+41281	4	вопросом	¬ќѕ–ќ—	S m inan ins sg			м	о	с	о	р	п	S	¬ќѕ–ќ—	S m inan ins sg
+41282	5	:	:	PUNC									PUNC	:	PUNC
+41283	6	&	&	PUNC									PUNC	&	PUNC
+41284	7	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+41285	8	";"	";"	SENT									SENT	";"	SENT
+41286															
+41287	1	„то	„“ќ	SPRO			о	т	ч				SPRO	„“ќ	ADV -
+41288	2	бы	Ѕџ	PART			ы	б					PART	Ѕџ	PART
+41289	3	сделал	—ƒ≈Ћј“№	V pf praet sg indic m -			л	а	л	е	д	с	V	—ƒ≈Ћј“№	V pf praet sg indic m -
+41290	4	ты	“џ	SPRO sg 2p - nom			ы	т					SPRO	“џ	SPRO sg 2p - nom
+41291	5	?	?	SENT									SENT	?	SENT
+41292															
+41293	1	ѕомогайте	ѕќћќ√ј“№	V ipf - pl imper - 2p			е	т	й	а	г	о	V	ѕќћќ√ј“№	V ipf - pl imper - 2p
+41294	2	люд€м	„≈Ћќ¬≈ 	S m anim dat pl			м	€	д	ю	л		S	„≈Ћќ¬≈ 	S m anim dat pl
+41295	3	!	!	PUNC									PUNC	!	PUNC
+41296	4	&	&	PUNC									PUNC	&	PUNC
+41297	5	quot	QUOT	NONLEX									NONLEX	QUOT	NONLEX
+41298	6	";"	";"	SENT									SENT	";"	SENT
